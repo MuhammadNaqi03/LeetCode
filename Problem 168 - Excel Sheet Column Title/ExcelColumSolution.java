@@ -1,4 +1,4 @@
-class Solution {
+class ExcelColumnSolution {
   public String convertToTitle(int n) {
     String title ="";
     while(n!=0){
