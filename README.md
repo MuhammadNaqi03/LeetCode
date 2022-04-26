@@ -1,2 +1,4 @@
-### A collection of Leetcode problems solved by me
-Problems are commented with approach for better understanding.
+
+<h2> A collection of Leetcode problems solved by me </h2>
+
+<p>Solutions are commented with approach (multiple approaches in many cases) for better understanding.</P>
