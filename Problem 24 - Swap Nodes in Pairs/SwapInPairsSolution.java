@@ -8,7 +8,7 @@
  *   ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class SwapPairsSolution {
   public ListNode swapPairs(ListNode head) {
     /** We have to consider 3 cases here:
     * Case 1: If head is null then return null
