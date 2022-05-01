@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT p.FirstName, p.LastName, a.City, a.State
 FROM Person p
 -- We have to consider that all name might not be

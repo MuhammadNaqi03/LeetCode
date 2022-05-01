@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT 
 -- To check the value is null or not we wrap the query
 -- Have to use DISTINCT in case of duplication
