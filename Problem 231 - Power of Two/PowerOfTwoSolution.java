@@ -27,7 +27,7 @@ class PowerOfTwoSolution {
     
     
     /**
-    * second Approach: Recursive
+    * Second Approach: Recursive
     * Same as first approach, but will be done recursively.
     */
     // if (n <= 0) {
