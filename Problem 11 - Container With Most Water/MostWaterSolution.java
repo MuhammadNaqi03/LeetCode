@@ -1,4 +1,4 @@
-class Solution {
+class MostWaterSolution {
   public int maxArea(int[] height) {
     /**
      * Approach: Two pointers
