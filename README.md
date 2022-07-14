@@ -683,6 +683,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20196%20-%20Delete%20Duplicate%20Emails/DeleteDuplicateEmails.sql" target="_blank">Delete Duplicate Emails</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-customer-referee/" target="_blank"> #584 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20584%20-%20Find%20Customer%20Referee/CustomerReferee.sql" target="_blank">Find Customer Referee</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/big-countries/" target="_blank"> #595 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20595%20-%20Big%20Countries/BigCountries.sql" target="_blank">Big Countries</a>
   </li>
