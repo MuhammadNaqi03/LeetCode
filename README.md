@@ -251,6 +251,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20234%20-%20Palindrome%20Linked%20List/PalindromeListSolution.java" target="_blank">Palindrome Linked List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/delete-node-in-a-linked-list/" target="_blank"> #237 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20237%20-%20Delete%20Node%20in%20a%20Linked%20List/NodeDeletionSolution.java" target="_blank">Delete Node in a Linked List</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/middle-of-the-linked-list/" target="_blank"> #876 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20876%20-%20Middle%20of%20the%20Linked%20LIst/LinkedListMiddleSolution.java" target="_blank">Middle of the Linked List</a>
   </li>

@@ -6,7 +6,7 @@
  *   ListNode(int x) { val = x; }
  * }
  */
-class Solution {
+class NodeDeletionSolution {
   public void deleteNode(ListNode node) {
     /**
      * Approach: 
