@@ -53,6 +53,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%202/BestTime2Solution.java" target="_blank">Best Time to Buy and Sell Stock 2</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/longest-consecutive-sequence/" target="_blank"> #128 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20128%20-%20Longest%20Consecutive%20Sequence/LongestSequenceSolution.java" target="_blank">Longest Consecutive Sequence</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/single-number/" target="_blank"> #136 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20136%20-%20Single%20Number/SingleNumberSolution.java" target="_blank">Single Number</a>
   </li>
@@ -516,6 +520,17 @@
   <li>
     <a href="https://leetcode.com/problems/running-sum-of-1d-array/" target="_blank"> #1480 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201480%20-%20Running%20Sum%20of%201D%20Array/RunningSum1dSolution.java" target="_blank">Running Sum of 1d Array</a>
+  </li>
+</ul>
+
+<br>
+
+<!-- Union Find -->
+<h2> Union Find </h2>
+<ul>
+  <li>
+    <a href="https://leetcode.com/problems/longest-consecutive-sequence/" target="_blank"> #128 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20128%20-%20Longest%20Consecutive%20Sequence/LongestSequenceSolution.java" target="_blank">Longest Consecutive Sequence</a>
   </li>
 </ul>
 
