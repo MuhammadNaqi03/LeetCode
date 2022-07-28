@@ -247,6 +247,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20141%20-%20Linked%20List%20Cycle/LinkedListCycleSolution.java" target="_blank">Linked List Cycle</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/remove-linked-list-elements/" target="_blank"> #203 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20203%20-%20Remove%20Linked%20List%20Elements/RemoveElementsSolution.java" target="_blank">Remove Linked List Elements</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/reverse-linked-list/" target="_blank"> #206 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20206%20-%20Reverse%20LInked%20List/ReverseLinkedListSolution.java" target="_blank">Reverse Linked List</a>
   </li>
