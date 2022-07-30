@@ -109,6 +109,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201431%20-%20Kids%20with%20the%20Greatest%20Number%20of%20Candies/CandyKidsSolution.java" target="_blank">Kids With the Greatest Number of Candies</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/shuffle-the-array/" target="_blank"> #1470 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201470%20-%20Shuffle%20the%20Array/ShuffleArraySolution.java" target="_blank">Shuffle the Array</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/running-sum-of-1d-array/" target="_blank"> #1480 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201480%20-%20Running%20Sum%20of%201D%20Array/RunningSum1dSolution.java" target="_blank">Running Sum of 1d Array</a>
   </li>
