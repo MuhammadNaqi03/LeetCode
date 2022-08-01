@@ -251,6 +251,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20141%20-%20Linked%20List%20Cycle/LinkedListCycleSolution.java" target="_blank">Linked List Cycle</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/linked-list-cycle-ii/" target="_blank"> #142 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20142%20-%20Linked%20List%20Cycle%202/ListCycle2Solution.java" target="_blank">Linked List Cycle 2</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/remove-linked-list-elements/" target="_blank"> #203 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20203%20-%20Remove%20Linked%20List%20Elements/RemoveElementsSolution.java" target="_blank">Remove Linked List Elements</a>
   </li>
@@ -382,6 +386,10 @@
   <li>
     <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank"> #141 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20141%20-%20Linked%20List%20Cycle/LinkedListCycleSolution.java" target="_blank">Linked List Cycle</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/linked-list-cycle-ii/" target="_blank"> #142 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20142%20-%20Linked%20List%20Cycle%202/ListCycle2Solution.java" target="_blank">Linked List Cycle 2</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/reverse-words-in-a-string/" target="_blank"> #151 </a> -
