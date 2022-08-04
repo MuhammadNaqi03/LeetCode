@@ -632,6 +632,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20509%20-%20Fibonacci%20Number/FibonacciSolution.java" target="_blank">Fibonacci Number</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/" target="_blank"> #762 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20762%20-%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/PrimeSetBitsSolution.java" target="_blank">Prime Number of Set Bits in Binary Representation</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/n-th-tribonacci-number/" target="_blank"> #1137 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201137%20-%20Nth%20Tribonacci%20Number/NthTribonacciSolution.java" target="_blank">N-th Tribonacci Number</a>
   </li>
@@ -685,6 +689,10 @@
   <li>
     <a href="https://leetcode.com/problems/binary-number-with-alternating-bits/" target="_blank"> #693 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20693%20-%20Binary%20Number%20with%20Alternating%20Bits/AlternatingBitsSolution.java" target="_blank">Binary Number with Alternating Bits</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/" target="_blank"> #762 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20762%20-%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/PrimeSetBitsSolution.java" target="_blank">Prime Number of Set Bits in Binary Representation</a>
   </li>
 </ul>
 
