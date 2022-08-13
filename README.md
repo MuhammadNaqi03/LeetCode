@@ -89,6 +89,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20268%20-%20Missing%20Number/MissingNumberSolution.java" target="_blank">Missing Number</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/intersection-of-two-arrays/" target="_blank"> #349 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20349%20-%20Intersection%20of%20Two%20Arrays/ArrIntersectionSolution.java" target="_blank">Intersection of Two Arrays</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/" target="_blank"> #532 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20532%20-%20K%20diff%20Pairs%20in%20an%20Array/DiffPairsSolution.java" target="_blank">K-diff Pairs in an Array</a>
   </li>
@@ -423,6 +427,10 @@
     <a href="https://leetcode.com/problems/reverse-string/" target="_blank"> #344 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20344%20-%20Reverse%20String/ReverseStringSolution.java" target="_blank">Reverse String</a>
   </li>
+    <li>
+    <a href="https://leetcode.com/problems/intersection-of-two-arrays/" target="_blank"> #349 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20349%20-%20Intersection%20of%20Two%20Arrays/ArrIntersectionSolution.java" target="_blank">Intersection of Two Arrays</a>
+  </li>
   <li>
     <a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/" target="_blank"> #532 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20532%20-%20K%20diff%20Pairs%20in%20an%20Array/DiffPairsSolution.java" target="_blank">K-diff Pairs in an Array</a>
@@ -474,6 +482,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20278%20-%20First%20Bad%20Version/FirstBadVersion.java" target="_blank">First Bad Version</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/intersection-of-two-arrays/" target="_blank"> #349 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20349%20-%20Intersection%20of%20Two%20Arrays/ArrIntersectionSolution.java" target="_blank">Intersection of Two Arrays</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/binary-search/" target="_blank"> #704 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20704%20-%20Binary%20Search/BinarySearchSolution.java" target="_blank">Binary Search</a>
   </li>
@@ -495,6 +507,10 @@
   <li>
     <a href="https://leetcode.com/problems/fibonacci-number/" target="_blank"> #509 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20509%20-%20Fibonacci%20Number/FibonacciSolution.java" target="_blank">Fibonacci Number</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/" target="_blank"> #762 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20762%20-%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/PrimeSetBitsSolution.java" target="_blank">Prime Number of Set Bits in Binary Representation</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/n-th-tribonacci-number/" target="_blank"> #1137 </a> -
