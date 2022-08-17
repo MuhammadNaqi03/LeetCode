@@ -251,6 +251,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2083%20-%20Remove%20Duplicates%20from%20Sorted%20List/DeleteDuplicatesSolution.java" target="_blank">Remove Duplicates from Sorted List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/reverse-linked-list-ii/" target="_blank"> #92 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2092%20-%20Reverse%20Linked%20List%202/ReverseList2Solution.java" target="_blank">Reverse Linked List II</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank"> #141 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20141%20-%20Linked%20List%20Cycle/LinkedListCycleSolution.java" target="_blank">Linked List Cycle</a>
   </li>
@@ -390,6 +394,10 @@
   <li>
     <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank"> #88 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2088%20-%20Merge%20Sorted%20Array/MergeSortedArraySolution.java" target="_blank">Merge Sorted Array</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/reverse-linked-list-ii/" target="_blank"> #92 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2092%20-%20Reverse%20Linked%20List%202/ReverseList2Solution.java" target="_blank">Reverse Linked List II</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/valid-palindrome/" target="_blank"> #125 </a> -
