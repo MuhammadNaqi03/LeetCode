@@ -93,6 +93,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20349%20-%20Intersection%20of%20Two%20Arrays/ArrIntersectionSolution.java" target="_blank">Intersection of Two Arrays</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/" target="_blank"> #350 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20350%20-%20Intersection%20of%20Two%20Arrays%202/ArrIntersection2Solution.java" target="_blank">Intersection of Two Arrays II</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/" target="_blank"> #532 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20532%20-%20K%20diff%20Pairs%20in%20an%20Array/DiffPairsSolution.java" target="_blank">K-diff Pairs in an Array</a>
   </li>
@@ -435,9 +439,13 @@
     <a href="https://leetcode.com/problems/reverse-string/" target="_blank"> #344 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20344%20-%20Reverse%20String/ReverseStringSolution.java" target="_blank">Reverse String</a>
   </li>
-    <li>
+  <li>
     <a href="https://leetcode.com/problems/intersection-of-two-arrays/" target="_blank"> #349 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20349%20-%20Intersection%20of%20Two%20Arrays/ArrIntersectionSolution.java" target="_blank">Intersection of Two Arrays</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/" target="_blank"> #350 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20350%20-%20Intersection%20of%20Two%20Arrays%202/ArrIntersection2Solution.java" target="_blank">Intersection of Two Arrays II</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/" target="_blank"> #532 </a> -
