@@ -251,6 +251,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2061%20-%20Rotate%20List/RotateListSolution.java" target="_blank">Rotate List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/" target="_blank"> #82 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2082%20-%20Remove%20Duplicates%20from%20Sorted%20List%202/RemoveDuplicates2Solution.java" target="_blank">Remove Duplicates from Sorted List II</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/" target="_blank"> #83 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2083%20-%20Remove%20Duplicates%20from%20Sorted%20List/DeleteDuplicatesSolution.java" target="_blank">Remove Duplicates from Sorted List</a>
   </li>
@@ -394,6 +398,10 @@
   <li>
     <a href="https://leetcode.com/problems/rotate-list/" target="_blank"> #61 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2061%20-%20Rotate%20List/RotateListSolution.java" target="_blank">Rotate List</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/" target="_blank"> #82 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2082%20-%20Remove%20Duplicates%20from%20Sorted%20List%202/RemoveDuplicates2Solution.java" target="_blank">Remove Duplicates from Sorted List II</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank"> #88 </a> -
