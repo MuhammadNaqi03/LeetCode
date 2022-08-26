@@ -279,6 +279,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20143%20-%20Reorder%20List/ReorderListSolution.java" target="_blank">Reorder List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/" target="_blank"> #160 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20160%20-%20Intersection%20of%20Two%20Linked%20Lists/ListIntersectionSolution.java" target="_blank">Intersection of Two Linked Lists</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/remove-linked-list-elements/" target="_blank"> #203 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20203%20-%20Remove%20Linked%20List%20Elements/RemoveElementsSolution.java" target="_blank">Remove Linked List Elements</a>
   </li>
@@ -434,6 +438,10 @@
   <li>
     <a href="https://leetcode.com/problems/reverse-words-in-a-string/" target="_blank"> #151 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20151%20-%20Reverse%20Words%20in%20a%20String/ReverseWordsSolution.java" target="_blank">Reverse Words in a String</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/" target="_blank"> #160 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20160%20-%20Intersection%20of%20Two%20Linked%20Lists/ListIntersectionSolution.java" target="_blank">Intersection of Two Linked Lists</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/" target="_blank"> #167 </a> -
