@@ -108,7 +108,11 @@
     <a href="https://leetcode.com/problems/binary-search/" target="_blank"> #704 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20704%20-%20Binary%20Search/BinarySearchSolution.java" target="_blank">Binary Search</a>
   </li>
-    <li>
+  <li>
+    <a href="https://leetcode.com/problems/monotonic-array/" target="_blank"> #896 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20896%20-%20Monotonic%20Array/MonotonicArraySolution.java" target="_blank">Monotonic Array</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/" target="_blank"> #961 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20961%20-%20N-Repeated%20Element%20in%20Size%202N%20Array/NRepeatedElemSolution.java" target="_blank">N-Repeated Element in Size 2N Array</a>
   </li>
