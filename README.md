@@ -33,6 +33,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2035%20-%20Search%20Insert%20Position/SearchInsertPositionSolution.java" target="_blank">Search Insert Position</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/group-anagrams/" target="_blank"> #49 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2049%20-%20Group%20Anagrams/GroupAnagramsSolution.java" target="_blank">Group Anagrams</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/maximum-subarray/" target="_blank"> #53 </a> - 
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2053%20-%20Maximum%20Subarray/MaximumSubarraySolution.java" target="_blank">Maximum Subarray</a>
   </li>
@@ -166,6 +170,10 @@
   <li>
     <a href="https://leetcode.com/problems/valid-parentheses/" target="_blank"> #20 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2020%20-%20Valid%20Parentheses/ValidParenthesesSolution.java" target="_blank">Valid Parentheses</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/group-anagrams/" target="_blank"> #49 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2049%20-%20Group%20Anagrams/GroupAnagramsSolution.java" target="_blank">Group Anagrams</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/length-of-last-word/" target="_blank"> #58 </a> -
