@@ -45,6 +45,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2066%20-%20Plus%20One/PlusOneSolution.java" target="_blank">Plus One</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/" target="_blank"> #80 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2080%20-%20Remove%20Duplicates%20from%20Sorted%20Array%202/RemoveDuplicates2Solution.java" target="_blank">Remove Duplicates from Sorted Array II</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank"> #88 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2088%20-%20Merge%20Sorted%20Array/MergeSortedArraySolution.java" target="_blank">Merge Sorted Array</a>
   </li>
@@ -418,6 +422,10 @@
   <li>
     <a href="https://leetcode.com/problems/rotate-list/" target="_blank"> #61 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2061%20-%20Rotate%20List/RotateListSolution.java" target="_blank">Rotate List</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/" target="_blank"> #80 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2080%20-%20Remove%20Duplicates%20from%20Sorted%20Array%202/RemoveDuplicates2Solution.java" target="_blank">Remove Duplicates from Sorted Array II</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/" target="_blank"> #82 </a> -
