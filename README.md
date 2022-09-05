@@ -319,6 +319,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20876%20-%20Middle%20of%20the%20Linked%20LIst/LinkedListMiddleSolution.java" target="_blank">Middle of the Linked List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/" target="_blank"> #1290 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201290%20-%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/BinaryToIntSolution.java" target="_blank">Convert Binary Number in a Linked List to Integer</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/merge-in-between-linked-lists/" target="_blank"> #1669 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201669%20-%20Merge%20In%20Between%20Linked%20Lists/MergeBetweenListsSolution.java" target="_blank">Merge In Between Linked Lists</a>
   </li>
@@ -722,6 +726,10 @@
   <li>
     <a href="https://leetcode.com/problems/n-th-tribonacci-number/" target="_blank"> #1137 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201137%20-%20Nth%20Tribonacci%20Number/NthTribonacciSolution.java" target="_blank">N-th Tribonacci Number</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/" target="_blank"> #1290 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201290%20-%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/BinaryToIntSolution.java" target="_blank">Convert Binary Number in a Linked List to Integer</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/number-of-good-pairs/" target="_blank"> #1512 </a> -
