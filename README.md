@@ -105,6 +105,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20350%20-%20Intersection%20of%20Two%20Arrays%202/ArrIntersection2Solution.java" target="_blank">Intersection of Two Arrays II</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/" target="_blank"> #448 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20448%20-%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/DisappearedNumbersSolution.java" target="_blank">Find All Numbers Disappeared in an Array</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/" target="_blank"> #532 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20532%20-%20K%20diff%20Pairs%20in%20an%20Array/DiffPairsSolution.java" target="_blank">K-diff Pairs in an Array</a>
   </li>
