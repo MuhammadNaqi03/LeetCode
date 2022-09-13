@@ -125,6 +125,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20896%20-%20Monotonic%20Array/MonotonicArraySolution.java" target="_blank">Monotonic Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/sort-array-by-parity/" target="_blank"> #905 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20905%20-%20Sort%20Array%20By%20Parity/ParitySortSolution.java" target="_blank">Sort Array By Parity</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/" target="_blank"> #961 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20961%20-%20N-Repeated%20Element%20in%20Size%202N%20Array/NRepeatedElemSolution.java" target="_blank">N-Repeated Element in Size 2N Array</a>
   </li>
@@ -502,6 +506,10 @@
   <li>
     <a href="https://leetcode.com/problems/middle-of-the-linked-list/" target="_blank"> #876 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20876%20-%20Middle%20of%20the%20Linked%20LIst/LinkedListMiddleSolution.java" target="_blank">Middle of the Linked List</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/sort-array-by-parity/" target="_blank"> #905 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20905%20-%20Sort%20Array%20By%20Parity/ParitySortSolution.java" target="_blank">Sort Array By Parity</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/squares-of-a-sorted-array/" target="_blank"> #977 </a> -
