@@ -335,6 +335,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201669%20-%20Merge%20In%20Between%20Linked%20Lists/MergeBetweenListsSolution.java" target="_blank">Merge In Between Linked Lists</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/swapping-nodes-in-a-linked-list/" target="_blank"> #1721 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201721%20-%20Swapping%20Nodes%20in%20a%20Linked%20List/SwappingNodesSolution.java" target="_blank">Swapping Nodes in a Linked List</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/" target="_blank"> #2130 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202130%20-%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaxTwinSumSolution.java" target="_blank">Maximum Twin Sum of a Linked List</a>
   </li>
@@ -514,6 +518,10 @@
   <li>
     <a href="https://leetcode.com/problems/squares-of-a-sorted-array/" target="_blank"> #977 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20977%20-%20Squares%20of%20a%20Sorted%20Array/SquaresOfSortedArraySolution.java" target="_blank">Squares of a Sorted Array</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/swapping-nodes-in-a-linked-list/" target="_blank"> #1721 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201721%20-%20Swapping%20Nodes%20in%20a%20Linked%20List/SwappingNodesSolution.java" target="_blank">Swapping Nodes in a Linked List</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/" target="_blank"> #2130 </a> -
