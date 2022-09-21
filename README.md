@@ -755,6 +755,10 @@
     <a href="https://leetcode.com/problems/number-of-good-pairs/" target="_blank"> #1512 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201512%20-%20Number%20of%20Good%20Pairs/GoodPairsSolution.java" target="_blank">Number of Good Pairs</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/smallest-even-multiple/" target="_blank"> #2413 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202413%20-%20Smallest%20Even%20Multiple/SmallestEvenMultipleSolution.java" target="_blank">Smallest Even Multiple</a>
+  </li>
 </ul>
 
 <br>
