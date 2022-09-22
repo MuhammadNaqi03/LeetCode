@@ -287,6 +287,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2083%20-%20Remove%20Duplicates%20from%20Sorted%20List/DeleteDuplicatesSolution.java" target="_blank">Remove Duplicates from Sorted List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/partition-list/" target="_blank"> #86 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2086%20-%20Partition%20List/PartitionListSolution.java" target="_blank">Partition List</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/reverse-linked-list-ii/" target="_blank"> #92 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2092%20-%20Reverse%20Linked%20List%202/ReverseList2Solution.java" target="_blank">Reverse Linked List II</a>
   </li>
@@ -446,6 +450,10 @@
   <li>
     <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/" target="_blank"> #82 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2082%20-%20Remove%20Duplicates%20from%20Sorted%20List%202/RemoveDuplicates2Solution.java" target="_blank">Remove Duplicates from Sorted List II</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/partition-list/" target="_blank"> #86 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2086%20-%20Partition%20List/PartitionListSolution.java" target="_blank">Partition List</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank"> #88 </a> -
