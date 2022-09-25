@@ -77,6 +77,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20169%20-%20Majority%20Element/MajorityElementSolution.java" target="_blank">Majority Element</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/rotate-array/" target="_blank"> #189 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20189%20-%20Rotate%20Array/RotateArraySolution.java" target="_blank">Rotate Array</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/contains-duplicate/" target="_blank"> #217 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20217%20-%20Contains%20Duplicates/ContainsDuplicatesSolution.java" target="_blank">Contains Duplicate</a>
   </li>
