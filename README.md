@@ -858,6 +858,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20196%20-%20Delete%20Duplicate%20Emails/DeleteDuplicateEmails.sql" target="_blank">Delete Duplicate Emails</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/game-play-analysis-i/" target="_blank"> #511 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20511%20-%20Game%20Play%20Analysis%201/GamePlayAnalysis1.sql" target="_blank">Game Play Analysis I</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/find-customer-referee/" target="_blank"> #584 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20584%20-%20Find%20Customer%20Referee/CustomerReferee.sql" target="_blank">Find Customer Referee</a>
   </li>
