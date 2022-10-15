@@ -890,6 +890,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201148%20-%20Article%20Views%201/ArticleViews.sql" target="_blank">Article Views</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-followers-count/" target="_blank"> #1729 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201729%20-%20Find%20Followers%20Count/FollowersCount.sql" target="_blank">Find Followers Count</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/recyclable-and-low-fat-products/" target="_blank"> #1757 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201757%20-%20Recyclable%20and%20Low%20Fat%20Products/RecNLow.sql" target="_blank">Recyclable and Low Fat Products</a>
   </li>
