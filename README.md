@@ -169,6 +169,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201672%20-%20Richest%20Customer%20Wealth/RichestCustomerSolution.java" target="_blank">Richest Customer Wealth</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/" target="_blank"> #1832 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/PangramSolution.java" target="_blank">Check if the Sentence Is Pangram</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/" target="_blank"> #2114 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/MaxWordsSolution.java" target="_blank">Maximum Number of Words Found in Sentences</a>
   </li>
@@ -254,6 +258,10 @@
   <li>
     <a href="https://leetcode.com/problems/shuffle-string/" target="_blank"> #1528 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201528%20-%20Shuffle%20String/ShuffleStringSolution.java" target="_blank">Shuffle String</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/" target="_blank"> #1832 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/PangramSolution.java" target="_blank">Check if the Sentence Is Pangram</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/" target="_blank"> #2114 </a> -
@@ -829,6 +837,10 @@
   <li>
     <a href="https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/" target="_blank"> #762 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20762%20-%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/PrimeSetBitsSolution.java" target="_blank">Prime Number of Set Bits in Binary Representation</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/" target="_blank"> #1832 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/PangramSolution.java" target="_blank">Check if the Sentence Is Pangram</a>
   </li>
 </ul>
 
