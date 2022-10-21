@@ -117,6 +117,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20532%20-%20K%20diff%20Pairs%20in%20an%20Array/DiffPairsSolution.java" target="_blank">K-diff Pairs in an Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/minimum-index-sum-of-two-lists/" target="_blank"> #599 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20599%20-%20%20Minimum%20Index%20Sum%20of%20Two%20Lists/MinIndexSumSolution.java" target="_blank">Minimum Index Sum of Two Lists</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/can-place-flowers/" target="_blank"> #605 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20605%20-%20Can%20Place%20Flowers/CanPlaceFlowersSolution.java" target="_blank">Can Place Flowers</a>
   </li>
@@ -238,6 +242,10 @@
   <li>
     <a href="https://leetcode.com/problems/number-of-segments-in-a-string/" target="_blank"> #434 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20434%20-%20Number%20of%20Segments%20in%20a%20String/SegmentNumberSolution.java" target="_blank">Number of Segments in a String</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/minimum-index-sum-of-two-lists/" target="_blank"> #599 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20599%20-%20%20Minimum%20Index%20Sum%20of%20Two%20Lists/MinIndexSumSolution.java" target="_blank">Minimum Index Sum of Two Lists</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/rotate-string/" target="_blank"> #796 </a> -
