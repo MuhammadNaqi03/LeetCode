@@ -914,6 +914,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201729%20-%20Find%20Followers%20Count/FollowersCount.sql" target="_blank">Find Followers Count</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-total-time-spent-by-each-employee/" target="_blank"> #1741 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201741%20-%20Find%20Total%20Time%20Spent%20by%20Each%20Employee/EmployeeTimeSpent.sql" target="_blank">Find Total Time Spent by Each Employee</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/recyclable-and-low-fat-products/" target="_blank"> #1757 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201757%20-%20Recyclable%20and%20Low%20Fat%20Products/RecNLow.sql" target="_blank">Recyclable and Low Fat Products</a>
   </li>
