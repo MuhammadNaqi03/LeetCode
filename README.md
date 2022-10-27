@@ -169,6 +169,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201528%20-%20Shuffle%20String/ShuffleStringSolution.java" target="_blank">Shuffle String</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank"> #1662 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/EquivalentStringArraySolution.java" target="_blank">Check If Two String Arrays are Equivalent</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/richest-customer-wealth/" target="_blank"> #1672 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201672%20-%20Richest%20Customer%20Wealth/RichestCustomerSolution.java" target="_blank">Richest Customer Wealth</a>
   </li>
@@ -266,6 +270,10 @@
   <li>
     <a href="https://leetcode.com/problems/shuffle-string/" target="_blank"> #1528 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201528%20-%20Shuffle%20String/ShuffleStringSolution.java" target="_blank">Shuffle String</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank"> #1662 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/EquivalentStringArraySolution.java" target="_blank">Check If Two String Arrays are Equivalent</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/" target="_blank"> #1832 </a> -
@@ -554,6 +562,10 @@
   <li>
     <a href="https://leetcode.com/problems/squares-of-a-sorted-array/" target="_blank"> #977 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20977%20-%20Squares%20of%20a%20Sorted%20Array/SquaresOfSortedArraySolution.java" target="_blank">Squares of a Sorted Array</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank"> #1662 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/EquivalentStringArraySolution.java" target="_blank">Check If Two String Arrays are Equivalent</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/swapping-nodes-in-a-linked-list/" target="_blank"> #1721 </a> -
