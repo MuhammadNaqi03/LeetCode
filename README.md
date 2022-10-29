@@ -902,6 +902,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20584%20-%20Find%20Customer%20Referee/CustomerReferee.sql" target="_blank">Find Customer Referee</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/" target="_blank"> #586 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20586%20-%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders/LargestNumberOfOrders.sql" target="_blank">Customer Placing the Largest Number of Orders</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/big-countries/" target="_blank"> #595 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20595%20-%20Big%20Countries/BigCountries.sql" target="_blank">Big Countries</a>
   </li>
