@@ -410,6 +410,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20144%20-%20Binary%20Tree%20Preorder%20Traversal/PreorderSolution.java" target="_blank">Binary Tree Preorder Traversal</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/binary-tree-postorder-traversal/" target="_blank"> #145 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20145%20-%20Binary%20Tree%20Postorder%20Traversal/PostOrderTraversalSolution.java" target="_blank">Binary Tree Postorder Traversal</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/palindrome-linked-list/" target="_blank"> #234 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20234%20-%20Palindrome%20Linked%20List/PalindromeListSolution.java" target="_blank">Palindrome Linked List</a>
   </li>
@@ -439,6 +443,10 @@
   <li>
     <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/" target="_blank"> #144 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20144%20-%20Binary%20Tree%20Preorder%20Traversal/PreorderSolution.java" target="_blank">Binary Tree Preorder Traversal</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/binary-tree-postorder-traversal/" target="_blank"> #145 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20145%20-%20Binary%20Tree%20Postorder%20Traversal/PostOrderTraversalSolution.java" target="_blank">Binary Tree Postorder Traversal</a>
   </li>
 </ul>
 
