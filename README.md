@@ -942,6 +942,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20627%20-%20Swap%20Salary/SwapSalary.sql" target="_blank">Swap Salary</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/" target="_blank"> #1050 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201050%20-%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times/ActorsDirectorsSolution.sql" target="_blank">Actors and Directors Who Cooperated At Least Three Times</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/article-views-i/" target="_blank"> #1148 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201148%20-%20Article%20Views%201/ArticleViews.sql" target="_blank">Article Views</a>
   </li>
