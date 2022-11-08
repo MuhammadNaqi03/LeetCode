@@ -307,6 +307,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2024%20-%20Swap%20Nodes%20in%20Pairs/SwapInPairsSolution.java" target="_blank">Swap Nodes in Pairs</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/reverse-nodes-in-k-group/" target="_blank"> #25 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2025%20-%20Reverse%20Nodes%20in%20k-Group/KGroupReverseSolution.java" target="_blank">Reverse Nodes in k-Group</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/rotate-list/" target="_blank"> #61 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2061%20-%20Rotate%20List/RotateListSolution.java" target="_blank">Rotate List</a>
   </li>
