@@ -962,6 +962,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201148%20-%20Article%20Views%201/ArticleViews.sql" target="_blank">Article Views</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/daily-leads-and-partners/" target="_blank"> #1693 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201693%20-%20Daily%20Leads%20and%20Partners/LeadsNPartnersSolution.sql" target="_blank">Daily Leads and Partners</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/find-followers-count/" target="_blank"> #1729 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201729%20-%20Find%20Followers%20Count/FollowersCount.sql" target="_blank">Find Followers Count</a>
   </li>
