@@ -264,6 +264,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20921%20-%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/MinAddToMakeValidSolution.java" target="_blank">Minimum Add to Make Parentheses Valid</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/" target="_blank"> #1047 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201047%20-%20Remove%20All%20Adjacent%20Duplicates%20In%20String/AdjacentDuplicateSolution.java" target="_blank">Remove All Adjacent Duplicates In String</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/defanging-an-ip-address/" target="_blank"> #1108 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201108%20-%20Defanging%20an%20IP%20Address/DefangingAnIPSolution.java" target="_blank">Defanging an IP Address</a>
   </li>
@@ -436,6 +440,10 @@
   <li>
     <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/" target="_blank"> #921 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20921%20-%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/MinAddToMakeValidSolution.java" target="_blank">Minimum Add to Make Parentheses Valid</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/" target="_blank"> #1047 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201047%20-%20Remove%20All%20Adjacent%20Duplicates%20In%20String/AdjacentDuplicateSolution.java" target="_blank">Remove All Adjacent Duplicates In String</a>
   </li>
 </ul>
 
