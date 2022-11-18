@@ -375,6 +375,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20328%20-%20Odd%20Even%20Linked%20List/OddEvenListSolution.java" target="_blank">Odd Even Linked List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/linked-list-random-node/" target="_blank"> #382 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20382%20-%20Linked%20List%20Random%20Node/Solution.java" target="_blank">Linked List Random Node</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/split-linked-list-in-parts/" target="_blank"> #725 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20725%20-%20Split%20Linked%20List%20in%20Parts/LinkedListPartsSolution.java" target="_blank">Split Linked List in Parts</a>
   </li>
