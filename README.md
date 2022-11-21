@@ -9,6 +9,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201%20-%20Two%20Sum/TwoSumSolution.java" target="_blank">Two Sum</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank"> #3 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203%20-%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstrSolution.java" target="_blank">Longest Substring Without Repeating Characters</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/container-with-most-water/" target="_blank"> #11  </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2011%20-%20Container%20With%20Most%20Water/MostWaterSolution.java" target="_blank">Container With Most Water</a>
   </li>
@@ -191,6 +195,10 @@
 <!-- String -->
 <h2> String </h2>
 <ul>
+  <li>
+    <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank"> #3 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203%20-%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstrSolution.java" target="_blank">Longest Substring Without Repeating Characters</a>
+  </li>
   <li>
     <a href="https://leetcode.com/problems/roman-to-integer/" target="_blank"> #13 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2013%20-%20Roman%20to%20Integer/RomanToIntegerSolution.java" target="_blank">Roman to Integer</a>
@@ -626,6 +634,10 @@
 <!-- Sliding Window -->
 <h2> Sliding Window </h2>
 <ul>
+  <li>
+    <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank"> #3 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203%20-%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstrSolution.java" target="_blank">Longest Substring Without Repeating Characters</a>
+  </li>
   <li>
     <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank"> #121 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/BestTimeSolution.java" target="_blank">Best Time to Buy and Sell Stock</a>
