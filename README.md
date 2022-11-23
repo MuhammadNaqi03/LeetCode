@@ -986,6 +986,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201148%20-%20Article%20Views%201/ArticleViews.sql" target="_blank">Article Views</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/fix-names-in-a-table" target="_blank"> #1667 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201667%20-%20Fix%20Names%20in%20a%20Table/FixNamesSolution.sql" target="_blank">Fix Names in a Table</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/daily-leads-and-partners/" target="_blank"> #1693 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201693%20-%20Daily%20Leads%20and%20Partners/LeadsNPartnersSolution.sql" target="_blank">Daily Leads and Partners</a>
   </li>
