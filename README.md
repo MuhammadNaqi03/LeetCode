@@ -284,6 +284,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201221%20-%20Split%20a%20String%20into%20Balance%20Strings/SplitIntoBalacedStringsSolution.java" target="_blank">Split a String in Balanced Strings</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/" target="_blank"> #1347 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201347%20-%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/MinStepAnagramSolution.java" target="_blank">Minimum Number of Steps to Make Two Strings Anagram</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/shuffle-string/" target="_blank"> #1528 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201528%20-%20Shuffle%20String/ShuffleStringSolution.java" target="_blank">Shuffle String</a>
   </li>
