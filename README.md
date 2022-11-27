@@ -990,6 +990,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201148%20-%20Article%20Views%201/ArticleViews.sql" target="_blank">Article Views</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/group-sold-products-by-the-date/" target="_blank"> #1484 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201484%20-%20Group%20Sold%20Products%20By%20The%20Date/SoldProductsSolution.sql" target="_blank">Group Sold Products By The Date</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/fix-names-in-a-table" target="_blank"> #1667 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201667%20-%20Fix%20Names%20in%20a%20Table/FixNamesSolution.sql" target="_blank">Fix Names in a Table</a>
   </li>
