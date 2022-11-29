@@ -33,6 +33,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2027%20-%20Remove%20Element/RemoveElementSolution.java" target="_blank">Remove Element</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/" target="_blank"> #33 </a> - 
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2033%20-%20Search%20in%20Rotated%20Sorted%20Array/RotatedSortedSearchSolution.java" target="_blank">Search in Rotated Sorted Array</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/search-insert-position/" target="_blank"> #35 </a> - 
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2035%20-%20Search%20Insert%20Position/SearchInsertPositionSolution.java" target="_blank">Search Insert Position</a>
   </li>
