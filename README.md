@@ -272,6 +272,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20796%20-%20Rotate%20String/RotateStringSolution.java" target="_blank">Rotate String</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank"> #844 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20844%20-%20Backspace%20String%20Compare/BackspaceStringSolution.java" target="_blank">Backspace String Compare</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/" target="_blank"> #921 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20921%20-%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/MinAddToMakeValidSolution.java" target="_blank">Minimum Add to Make Parentheses Valid</a>
   </li>
@@ -462,6 +466,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20234%20-%20Palindrome%20Linked%20List/PalindromeListSolution.java" target="_blank">Palindrome Linked List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank"> #844 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20844%20-%20Backspace%20String%20Compare/BackspaceStringSolution.java" target="_blank">Backspace String Compare</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/" target="_blank"> #921 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20921%20-%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/MinAddToMakeValidSolution.java" target="_blank">Minimum Add to Make Parentheses Valid</a>
   </li>
@@ -614,6 +622,10 @@
   <li>
     <a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/" target="_blank"> #532 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20532%20-%20K%20diff%20Pairs%20in%20an%20Array/DiffPairsSolution.java" target="_blank">K-diff Pairs in an Array</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank"> #844 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20844%20-%20Backspace%20String%20Compare/BackspaceStringSolution.java" target="_blank">Backspace String Compare</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/middle-of-the-linked-list/" target="_blank"> #876 </a> -
