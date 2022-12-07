@@ -474,6 +474,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20921%20-%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/MinAddToMakeValidSolution.java" target="_blank">Minimum Add to Make Parentheses Valid</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/range-sum-of-bst/" target="_blank"> #938 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20938%20-%20Range%20Sum%20of%20BST/BSTRangeSumSolution.java" target="_blank">Range Sum of BST</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/" target="_blank"> #1047 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201047%20-%20Remove%20All%20Adjacent%20Duplicates%20In%20String/AdjacentDuplicateSolution.java" target="_blank">Remove All Adjacent Duplicates In String</a>
   </li>
@@ -507,6 +511,10 @@
   <li>
     <a href="https://leetcode.com/problems/invert-binary-tree/" target="_blank"> #226 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20226%20-%20Invert%20Binary%20Tree/InvertBinaryTreeSolution.java" target="_blank">Invert Binary Tree</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/range-sum-of-bst/" target="_blank"> #938 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20938%20-%20Range%20Sum%20of%20BST/BSTRangeSumSolution.java" target="_blank">Range Sum of BST</a>
   </li>
 </ul>
 
