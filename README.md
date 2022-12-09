@@ -1045,6 +1045,10 @@
     <a href="https://leetcode.com/problems/recyclable-and-low-fat-products/" target="_blank"> #1757 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201757%20-%20Recyclable%20and%20Low%20Fat%20Products/RecNLow.sql" target="_blank">Recyclable and Low Fat Products</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/the-latest-login-in-2020/" target="_blank"> #1890 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201890%20-%20The%20Latest%20Login%20in%202020/LatestLoginSolution.sql" target="_blank">The Latest Login in 2020</a>
+  </li>
 </ul>
 
 <br>
