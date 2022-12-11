@@ -268,6 +268,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20599%20-%20%20Minimum%20Index%20Sum%20of%20Two%20Lists/MinIndexSumSolution.java" target="_blank">Minimum Index Sum of Two Lists</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/to-lower-case/" target="_blank"> #709 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20709%20-%20To%20Lower%20Case/ToLowerCaseSolution.java" target="_blank">To Lower Case</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/rotate-string/" target="_blank"> #796 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20796%20-%20Rotate%20String/RotateStringSolution.java" target="_blank">Rotate String</a>
   </li>
