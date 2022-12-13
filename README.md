@@ -157,6 +157,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20977%20-%20Squares%20of%20a%20Sorted%20Array/SquaresOfSortedArraySolution.java" target="_blank">Squares of a Sorted Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/" target="_blank"> #1365 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201365%20-%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/SmallerNumberCountSolution.java" target="_blank">How Many Numbers Are Smaller Than the Current Number</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/" target="_blank"> #1431 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201431%20-%20Kids%20with%20the%20Greatest%20Number%20of%20Candies/CandyKidsSolution.java" target="_blank">Kids With the Greatest Number of Candies</a>
   </li>
