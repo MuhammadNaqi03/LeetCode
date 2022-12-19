@@ -1042,6 +1042,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201393%20-%20Capital%20Gain%20or%20Loss/GainLossSolution.sql" target="_blank">Capital Gain/Loss</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/top-travellers/" target="_blank"> #1407 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201407%20-%20Top%20Travellers/TopTravellersSolution.sql" target="_blank">Top Travellers</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/group-sold-products-by-the-date/" target="_blank"> #1484 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201484%20-%20Group%20Sold%20Products%20By%20The%20Date/SoldProductsSolution.sql" target="_blank">Group Sold Products By The Date</a>
   </li>
