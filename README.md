@@ -435,6 +435,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201721%20-%20Swapping%20Nodes%20in%20a%20Linked%20List/SwappingNodesSolution.java" target="_blank">Swapping Nodes in a Linked List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/" target="_blank"> #2095 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202095%20-%20%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/DeleteMidNodeSolution.java" target="_blank">Delete the Middle Node of a Linked List</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/" target="_blank"> #2130 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202130%20-%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaxTwinSumSolution.java" target="_blank">Maximum Twin Sum of a Linked List</a>
   </li>
@@ -670,6 +674,10 @@
   <li>
     <a href="https://leetcode.com/problems/swapping-nodes-in-a-linked-list/" target="_blank"> #1721 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201721%20-%20Swapping%20Nodes%20in%20a%20Linked%20List/SwappingNodesSolution.java" target="_blank">Swapping Nodes in a Linked List</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/" target="_blank"> #2095 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202095%20-%20%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/DeleteMidNodeSolution.java" target="_blank">Delete the Middle Node of a Linked List</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/" target="_blank"> #2130 </a> -
