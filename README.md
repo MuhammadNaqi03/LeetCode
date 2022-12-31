@@ -1030,6 +1030,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20596%20-%20Classes%20More%20than%205%20Students/MoreThanFive.sql" target="_blank">Classes More Than 5 Students</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/tree-node/" target="_blank"> #608 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20608%20-%20Tree%20Node/TreeNodeSolution.sql" target="_blank">Tree Node</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/not-boring-movies/" target="_blank"> #620 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20620%20-%20Not%20Boring%20Movies/NotBoringMovies.sql" target="_blank">Not Boring Movies</a>
   </li>
