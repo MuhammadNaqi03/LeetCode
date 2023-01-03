@@ -1006,6 +1006,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20183%20-%20Customers%20Who%20Never%20Order/NeverOrder.sql" target="_blank">Customers Who Never Order</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/department-highest-salary/" target="_blank"> #184 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20184%20-%20Department%20Highest%20Salary/HighestSalarySolution.sql" target="_blank">Department Highest Salary</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/delete-duplicate-emails/" target="_blank"> #196 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20196%20-%20Delete%20Duplicate%20Emails/DeleteDuplicateEmails.sql" target="_blank">Delete Duplicate Emails</a>
   </li>
