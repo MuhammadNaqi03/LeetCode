@@ -145,6 +145,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20704%20-%20Binary%20Search/BinarySearchSolution.java" target="_blank">Binary Search</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/daily-temperatures/" target="_blank"> #739 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20739%20-%20Daily%20Temperatures/DailyTemperaturesSolution.java" target="_blank">Daily Temperatures</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/monotonic-array/" target="_blank"> #896 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20896%20-%20Monotonic%20Array/MonotonicArraySolution.java" target="_blank">Monotonic Array</a>
   </li>
@@ -486,6 +490,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20234%20-%20Palindrome%20Linked%20List/PalindromeListSolution.java" target="_blank">Palindrome Linked List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/daily-temperatures/" target="_blank"> #739 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20739%20-%20Daily%20Temperatures/DailyTemperaturesSolution.java" target="_blank">Daily Temperatures</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank"> #844 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20844%20-%20Backspace%20String%20Compare/BackspaceStringSolution.java" target="_blank">Backspace String Compare</a>
   </li>
@@ -500,6 +508,17 @@
   <li>
     <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/" target="_blank"> #1047 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201047%20-%20Remove%20All%20Adjacent%20Duplicates%20In%20String/AdjacentDuplicateSolution.java" target="_blank">Remove All Adjacent Duplicates In String</a>
+  </li>
+</ul>
+
+<br>
+
+<!-- Monotonic Stack -->
+<h2> Monotonic Stack </h2>
+<ul>
+  <li>
+    <a href="https://leetcode.com/problems/daily-temperatures/" target="_blank"> #739 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20739%20-%20Daily%20Temperatures/DailyTemperaturesSolution.java" target="_blank">Daily Temperatures</a>
   </li>
 </ul>
 
