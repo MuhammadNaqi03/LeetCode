@@ -1124,6 +1124,10 @@
 <h2> Shell </h2>
 <ul>
   <li>
+    <a href="https://leetcode.com/problems/valid-phone-numbers/" target="_blank"> #193 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20193%20-%20Valid%20Phone%20Numbers/valid_phone_numbers.sh" target="_blank">Valid Phone Numbers</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/tenth-line/" target="_blank"> #195 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20195%20-%20Tenth%20Line/tenth_line.sh" target="_blank">Tenth Line</a>
   </li>
