@@ -1017,6 +1017,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20176%20-%20Second%20Highest%20Salary/SecondHighestSalary.sql" target="_blank">Second Highest Salary</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/rank-scores/" target="_blank"> #178 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20178%20-%20Rank%20Scores/RankScoresSolution.sql" target="_blank">Rank Scores</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/employees-earning-more-than-their-managers/" target="_blank"> #181 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20181%20-%20Employees%20Earning%20More%20Than%20Their%20Managers/RichEmployees.sql" target="_blank">Employees Earning More Than Their Managers</a>
   </li>
