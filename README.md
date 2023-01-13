@@ -157,6 +157,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20905%20-%20Sort%20Array%20By%20Parity/ParitySortSolution.java" target="_blank">Sort Array By Parity</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/delete-columns-to-make-sorted/" target="_blank"> #944 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20944%20-%20Delete%20Columns%20to%20Make%20Sorted/DeleteColumnSolution.java" target="_blank">Delete Columns to Make Sorted</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/" target="_blank"> #961 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20961%20-%20N-Repeated%20Element%20in%20Size%202N%20Array/NRepeatedElemSolution.java" target="_blank">N-Repeated Element in Size 2N Array</a>
   </li>
@@ -298,6 +302,10 @@
   <li>
     <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/" target="_blank"> #921 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20921%20-%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/MinAddToMakeValidSolution.java" target="_blank">Minimum Add to Make Parentheses Valid</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/delete-columns-to-make-sorted/" target="_blank"> #944 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20944%20-%20Delete%20Columns%20to%20Make%20Sorted/DeleteColumnSolution.java" target="_blank">Delete Columns to Make Sorted</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/" target="_blank"> #1047 </a> -
