@@ -209,6 +209,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202079%20-%20Watering%20Plants/WateringPlantsSolution.java" target="_blank">Watering Plants</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/" target="_blank"> #2011 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/" target="_blank"> #2114 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/MaxWordsSolution.java" target="_blank">Maximum Number of Words Found in Sentences</a>
   </li>
@@ -338,6 +342,10 @@
   <li>
     <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/" target="_blank"> #1832 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/PangramSolution.java" target="_blank">Check if the Sentence Is Pangram</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/" target="_blank"> #2011 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/" target="_blank"> #2114 </a> -
