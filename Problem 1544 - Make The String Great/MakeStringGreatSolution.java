@@ -14,7 +14,6 @@ class MakeStringGreatSolution {
      * in reverse order (as stack follows LIFO ) as a string.
      */
 
-
     if (s.length() == 1) {
       return s;
     }
@@ -28,10 +27,10 @@ class MakeStringGreatSolution {
       }
     }
 
-    String greatString = "";
+    StringBuilder greatStringSb = new StringBuilder();
     while (!charStack.isEmpty()) {
-      greatString = charStack.pop() + greatString;
+      greatStringSb.insert(0, charStack.pop());
     }
-    return greatString;
+    return greatStringSb.toString();
   }
 }
