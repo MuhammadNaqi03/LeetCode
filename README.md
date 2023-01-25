@@ -332,6 +332,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201528%20-%20Shuffle%20String/ShuffleStringSolution.java" target="_blank">Shuffle String</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/make-the-string-great/" target="_blank"> #1544 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201544%20-%20Make%20The%20String%20Great/MakeStringGreatSolution.java" target="_blank">Make The String Great</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank"> #1662 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/EquivalentStringArraySolution.java" target="_blank">Check If Two String Arrays are Equivalent</a>
   </li>
@@ -528,6 +532,10 @@
   <li>
     <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/" target="_blank"> #1047 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201047%20-%20Remove%20All%20Adjacent%20Duplicates%20In%20String/AdjacentDuplicateSolution.java" target="_blank">Remove All Adjacent Duplicates In String</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/make-the-string-great/" target="_blank"> #1544 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201544%20-%20Make%20The%20String%20Great/MakeStringGreatSolution.java" target="_blank">Make The String Great</a>
   </li>
 </ul>
 
