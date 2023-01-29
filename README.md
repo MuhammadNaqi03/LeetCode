@@ -970,6 +970,10 @@
     <a href="https://leetcode.com/problems/smallest-even-multiple/" target="_blank"> #2413 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202413%20-%20Smallest%20Even%20Multiple/SmallestEvenMultipleSolution.java" target="_blank">Smallest Even Multiple</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/convert-the-temperature/" target="_blank"> #2469 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202469%20-%20Convert%20the%20Temperature/ConvertTemperatureSolution.java" target="_blank">Convert the Temperature</a>
+  </li>
 </ul>
 
 <br>
