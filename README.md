@@ -129,6 +129,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20532%20-%20K%20diff%20Pairs%20in%20an%20Array/DiffPairsSolution.java" target="_blank">K-diff Pairs in an Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/array-partition/" target="_blank"> #561 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20561%20-%20Array%20Partition/ArrayPartitionSolution.java" target="_blank">Array Partition</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/minimum-index-sum-of-two-lists/" target="_blank"> #599 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20599%20-%20%20Minimum%20Index%20Sum%20of%20Two%20Lists/MinIndexSumSolution.java" target="_blank">Minimum Index Sum of Two Lists</a>
   </li>
@@ -819,8 +823,16 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%202/BestTime2Solution.java" target="_blank">Best Time to Buy and Sell Stock 2</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/array-partition/" target="_blank"> #561 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20561%20-%20Array%20Partition/ArrayPartitionSolution.java" target="_blank">Array Partition</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/can-place-flowers/" target="_blank"> #605 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20605%20-%20Can%20Place%20Flowers/CanPlaceFlowersSolution.java" target="_blank">Can Place Flowers</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/" target="_blank"> #921 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20921%20-%20Minimum%20Add%20to%20Make%20Parentheses%20Valid/MinAddToMakeValidSolution.java" target="_blank">Minimum Add to Make Parentheses Valid</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/split-a-string-in-balanced-strings/" target="_blank"> #1221 </a> -
