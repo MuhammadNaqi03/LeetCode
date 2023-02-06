@@ -475,6 +475,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201721%20-%20Swapping%20Nodes%20in%20a%20Linked%20List/SwappingNodesSolution.java" target="_blank">Swapping Nodes in a Linked List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/" target="_blank"> #2058 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202058%20-%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points/CriticalPointsSolution.java" target="_blank">Find the Minimum and Maximum Number of Nodes Between Critical Points</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/" target="_blank"> #2095 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202095%20-%20%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/DeleteMidNodeSolution.java" target="_blank">Delete the Middle Node of a Linked List</a>
   </li>
