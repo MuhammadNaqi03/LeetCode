@@ -288,6 +288,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20345%20-%20Reverse%20Vowels%20of%20a%20String/ReverseVowelsSolution.java" target="_blank">Reverse Vowels of a String</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/ransom-note/" target="_blank"> #383 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20383%20-%20Ransom%20Note/RansomNoteSolution.java" target="_blank">Ransom Note</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/find-the-difference/" target="_blank"> #389 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20389%20-%20Find%20the%20Difference/FindDifferenceSolution.java" target="_blank">Find the Difference</a>
   </li>
