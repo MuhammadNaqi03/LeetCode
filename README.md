@@ -125,6 +125,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20448%20-%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/DisappearedNumbersSolution.java" target="_blank">Find All Numbers Disappeared in an Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/next-greater-element-i/" target="_blank"> #496 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20496%20-%20Next%20Greater%20Element%20I/NextGreater1Solution.java" target="_blank">Next Greater Element I</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/" target="_blank"> #532 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20532%20-%20K%20diff%20Pairs%20in%20an%20Array/DiffPairsSolution.java" target="_blank">K-diff Pairs in an Array</a>
   </li>
@@ -532,6 +536,10 @@
   <li>
     <a href="https://leetcode.com/problems/palindrome-linked-list/" target="_blank"> #234 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20234%20-%20Palindrome%20Linked%20List/PalindromeListSolution.java" target="_blank">Palindrome Linked List</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/next-greater-element-i/" target="_blank"> #496 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20496%20-%20Next%20Greater%20Element%20I/NextGreater1Solution.java" target="_blank">Next Greater Element I</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/daily-temperatures/" target="_blank"> #739 </a> -
