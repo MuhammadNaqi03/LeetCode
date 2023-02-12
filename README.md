@@ -125,6 +125,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20448%20-%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/DisappearedNumbersSolution.java" target="_blank">Find All Numbers Disappeared in an Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/max-consecutive-ones/" target="_blank"> #485 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20485%20-%20Max%20Consecutive%20Ones/ConsecutiveOnesSolution.java" target="_blank">Max Consecutive Ones</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/next-greater-element-i/" target="_blank"> #496 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20496%20-%20Next%20Greater%20Element%20I/NextGreater1Solution.java" target="_blank">Next Greater Element I</a>
   </li>
