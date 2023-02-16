@@ -125,6 +125,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20448%20-%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/DisappearedNumbersSolution.java" target="_blank">Find All Numbers Disappeared in an Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/" target="_blank"> #462 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20462%20-%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/MinMoves2Solution.java" target="_blank">Minimum Moves to Equal Array Elements II</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/max-consecutive-ones/" target="_blank"> #485 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20485%20-%20Max%20Consecutive%20Ones/ConsecutiveOnesSolution.java" target="_blank">Max Consecutive Ones</a>
   </li>
@@ -985,6 +989,10 @@
   <li>
     <a href="https://leetcode.com/problems/sum-of-two-integers/" target="_blank"> #371 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20371%20-%20Sum%20of%20Two%20Integers/SumOfTwoIntegersSolution.java" target="_blank">Sum of Two Integers</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/" target="_blank"> #462 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20462%20-%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/MinMoves2Solution.java" target="_blank">Minimum Moves to Equal Array Elements II</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/fibonacci-number/" target="_blank"> #509 </a> -
