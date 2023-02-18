@@ -320,6 +320,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20709%20-%20To%20Lower%20Case/ToLowerCaseSolution.java" target="_blank">To Lower Case</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/jewels-and-stones/" target="_blank"> #771 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20771%20-%20Jewels%20and%20Stones/JewelsNStonesSolution.java" target="_blank">Jewels and Stones</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/rotate-string/" target="_blank"> #796 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20796%20-%20Rotate%20String/RotateStringSolution.java" target="_blank">Rotate String</a>
   </li>
