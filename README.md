@@ -510,6 +510,10 @@
     <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/" target="_blank"> #2181 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202181%20-%20Merge%20Nodes%20in%20Between%20Zeros/MergeNonZeroNodesSolution.java" target="_blank">Merge Nodes in Between Zeros</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/remove-nodes-from-linked-list/" target="_blank"> #2487 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202487%20-%20Remove%20Nodes%20From%20Linked%20List/RemoveNodesSolution.java" target="_blank">Remove Nodes From Linked List</a>
+  </li>
 </ul>
 
 <br>
@@ -577,6 +581,10 @@
     <a href="https://leetcode.com/problems/make-the-string-great/" target="_blank"> #1544 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201544%20-%20Make%20The%20String%20Great/MakeStringGreatSolution.java" target="_blank">Make The String Great</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/remove-nodes-from-linked-list/" target="_blank"> #2487 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202487%20-%20Remove%20Nodes%20From%20Linked%20List/RemoveNodesSolution.java" target="_blank">Remove Nodes From Linked List</a>
+  </li>
 </ul>
 
 <br>
@@ -587,6 +595,10 @@
   <li>
     <a href="https://leetcode.com/problems/daily-temperatures/" target="_blank"> #739 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20739%20-%20Daily%20Temperatures/DailyTemperaturesSolution.java" target="_blank">Daily Temperatures</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/remove-nodes-from-linked-list/" target="_blank"> #2487 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202487%20-%20Remove%20Nodes%20From%20Linked%20List/RemoveNodesSolution.java" target="_blank">Remove Nodes From Linked List</a>
   </li>
 </ul>
 
