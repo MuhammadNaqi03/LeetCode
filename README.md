@@ -141,6 +141,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20532%20-%20K%20diff%20Pairs%20in%20an%20Array/DiffPairsSolution.java" target="_blank">K-diff Pairs in an Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/" target="_blank"> #540 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20540%20-%20Single%20Element%20in%20a%20Sorted%20Array/SingleElementSolution.java" target="_blank">Single Element in a Sorted Array</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/array-partition/" target="_blank"> #561 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20561%20-%20Array%20Partition/ArrayPartitionSolution.java" target="_blank">Array Partition</a>
   </li>
@@ -823,6 +827,10 @@
   <li>
     <a href="https://leetcode.com/problems/intersection-of-two-arrays/" target="_blank"> #349 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20349%20-%20Intersection%20of%20Two%20Arrays/ArrIntersectionSolution.java" target="_blank">Intersection of Two Arrays</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/" target="_blank"> #540 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20540%20-%20Single%20Element%20in%20a%20Sorted%20Array/SingleElementSolution.java" target="_blank">Single Element in a Sorted Array</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/binary-search/" target="_blank"> #704 </a> -
