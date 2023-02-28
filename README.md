@@ -376,6 +376,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/EquivalentStringArraySolution.java" target="_blank">Check If Two String Arrays are Equivalent</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/goal-parser-interpretation/" target="_blank"> #1678 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201678%20-%20Goal%20Parser%20Interpretation/GoalParserSolution.java" target="_blank">Goal Parser Interpretation</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/" target="_blank"> #1704 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201704%20-%20Determine%20if%20String%20Halves%20Are%20Alike/AlikeStringHalvesSolution.java" target="_blank">Determine if String Halves Are Alike</a>
   </li>
