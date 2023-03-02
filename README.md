@@ -201,6 +201,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201431%20-%20Kids%20with%20the%20Greatest%20Number%20of%20Candies/CandyKidsSolution.java" target="_blank">Kids With the Greatest Number of Candies</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/" target="_blank"> #1450 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201450%20-%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/StudentsDoingHWSolution.java" target="_blank">Number of Students Doing Homework at a Given Time</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/shuffle-the-array/" target="_blank"> #1470 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201470%20-%20Shuffle%20the%20Array/ShuffleArraySolution.java" target="_blank">Shuffle the Array</a>
   </li>
