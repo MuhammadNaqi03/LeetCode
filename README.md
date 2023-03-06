@@ -221,6 +221,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201528%20-%20Shuffle%20String/ShuffleStringSolution.java" target="_blank">Shuffle String</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/kth-missing-positive-number/" target="_blank"> #1539 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201539%20-%20Kth%20Missing%20Positive%20Number/KthMissingNumberSolution.java" target="_blank">Kth Missing Positive Number</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank"> #1662 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/EquivalentStringArraySolution.java" target="_blank">Check If Two String Arrays are Equivalent</a>
   </li>
@@ -847,6 +851,10 @@
   <li>
     <a href="https://leetcode.com/problems/binary-search/" target="_blank"> #704 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20704%20-%20Binary%20Search/BinarySearchSolution.java" target="_blank">Binary Search</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/kth-missing-positive-number/" target="_blank"> #1539 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201539%20-%20Kth%20Missing%20Positive%20Number/KthMissingNumberSolution.java" target="_blank">Kth Missing Positive Number</a>
   </li>
 </ul>
 
