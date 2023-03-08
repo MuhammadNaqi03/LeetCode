@@ -1217,6 +1217,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201484%20-%20Group%20Sold%20Products%20By%20The%20Date/SoldProductsSolution.sql" target="_blank">Group Sold Products By The Date</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/" target="_blank"> #1581 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201581%20-%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions/NoTransactionCustomer.sql" target="_blank">Customer Who Visited but Did Not Make Any Transactions</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/bank-account-summary-ii/" target="_blank"> #1587 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201587%20-%20Bank%20Account%20Summary%20II/BankAccountSummary2.sql" target="_blank">Bank Account Summary II</a>
   </li>
