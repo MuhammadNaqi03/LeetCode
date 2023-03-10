@@ -1121,6 +1121,10 @@
     <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/" target="_blank"> #1832 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/PangramSolution.java" target="_blank">Check if the Sentence Is Pangram</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number/" target="_blank"> #2220 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202220%20-%20Minimum%20Bit%20Flips%20to%20Convert%20Numbe/MinBitFlipSolution.java" target="_blank">Minimum Bit Flips to Convert Number</a>
+  </li>
 </ul>
 
 <br>
