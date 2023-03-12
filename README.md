@@ -324,6 +324,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20434%20-%20Number%20of%20Segments%20in%20a%20String/SegmentNumberSolution.java" target="_blank">Number of Segments in a String</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/" target="_blank"> #557 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20557%20-%20Reverse%20Words%20in%20a%20String%20III/ReverseWords3Solution.java" target="_blank">Reverse Words in a String III</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/minimum-index-sum-of-two-lists/" target="_blank"> #599 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20599%20-%20%20Minimum%20Index%20Sum%20of%20Two%20Lists/MinIndexSumSolution.java" target="_blank">Minimum Index Sum of Two Lists</a>
   </li>
@@ -769,6 +773,10 @@
   <li>
     <a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/" target="_blank"> #532 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20532%20-%20K%20diff%20Pairs%20in%20an%20Array/DiffPairsSolution.java" target="_blank">K-diff Pairs in an Array</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/" target="_blank"> #557 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20557%20-%20Reverse%20Words%20in%20a%20String%20III/ReverseWords3Solution.java" target="_blank">Reverse Words in a String III</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank"> #844 </a> -
