@@ -963,6 +963,33 @@
 
 <br>
 
+<!-- Simulation -->
+<h2> Simulation </h2>
+<ul>
+  <li>
+    <a href="https://leetcode.com/problems/add-digits/" target="_blank"> #258 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20258%20-%20Add%20Digits/AddDigitsSolution.java" target="_blank">Add Digits</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank"> #844 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20844%20-%20Backspace%20String%20Compare/BackspaceStringSolution.java" target="_blank">Backspace String Compare</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/incremental-memory-leak/" target="_blank"> #1860 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201860%20-%20Incremental%20Memory%20Leak/MemoryLeakSolution.java" target="_blank">Incremental Memory Leak</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/" target="_blank"> #2011 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/" target="_blank"> #2181 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202181%20-%20Merge%20Nodes%20in%20Between%20Zeros/MergeNonZeroNodesSolution.java" target="_blank">Merge Nodes in Between Zeros</a>
+  </li>
+</ul>
+
+<br>
+
 <!-- Math & Geometry -->
 <h2> Math & Geometry </h2>
 <ul>
