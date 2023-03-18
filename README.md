@@ -507,6 +507,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201290%20-%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/BinaryToIntSolution.java" target="_blank">Convert Binary Number in a Linked List to Integer</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/design-browser-history/" target="_blank"> #1472 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201472%20-%20Design%20Browser%20History/BrowserHistorySolution.java" target="_blank">Design Browser History</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/merge-in-between-linked-lists/" target="_blank"> #1669 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201669%20-%20Merge%20In%20Between%20Linked%20Lists/MergeBetweenListsSolution.java" target="_blank">Merge In Between Linked Lists</a>
   </li>
@@ -600,6 +604,10 @@
   <li>
     <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/" target="_blank"> #1047 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201047%20-%20Remove%20All%20Adjacent%20Duplicates%20In%20String/AdjacentDuplicateSolution.java" target="_blank">Remove All Adjacent Duplicates In String</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/design-browser-history/" target="_blank"> #1472 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201472%20-%20Design%20Browser%20History/BrowserHistorySolution.java" target="_blank">Design Browser History</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/make-the-string-great/" target="_blank"> #1544 </a> -
@@ -1159,6 +1167,28 @@
   <li>
     <a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number/" target="_blank"> #2220 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202220%20-%20Minimum%20Bit%20Flips%20to%20Convert%20Numbe/MinBitFlipSolution.java" target="_blank">Minimum Bit Flips to Convert Number</a>
+  </li>
+</ul>
+
+<br>
+
+<!-- Data Stream -->
+<h2> Data Stream </h2>
+<ul>
+  <li>
+    <a href="https://leetcode.com/problems/design-browser-history/" target="_blank"> #1472 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201472%20-%20Design%20Browser%20History/BrowserHistorySolution.java" target="_blank">Design Browser History</a>
+  </li>
+</ul>
+
+<br>
+
+<!-- Design -->
+<h2> Design </h2>
+<ul>
+  <li>
+    <a href="https://leetcode.com/problems/design-browser-history/" target="_blank"> #1472 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201472%20-%20Design%20Browser%20History/BrowserHistorySolution.java" target="_blank">Design Browser History</a>
   </li>
 </ul>
 
