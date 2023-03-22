@@ -248,6 +248,10 @@
     <a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/" target="_blank"> #2114 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/MaxWordsSolution.java" target="_blank">Maximum Number of Words Found in Sentences</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/" target="_blank"> #2348 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202348%20-%20Number%20of%20Zero-Filled%20Subarrays/ZeroFilledSolution.java" target="_blank">Number of Zero-Filled Subarrays</a>
+  </li>
 </ul>
 
 <br>
@@ -1100,6 +1104,10 @@
   <li>
     <a href="https://leetcode.com/problems/number-of-good-pairs/" target="_blank"> #1512 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201512%20-%20Number%20of%20Good%20Pairs/GoodPairsSolution.java" target="_blank">Number of Good Pairs</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/" target="_blank"> #2348 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202348%20-%20Number%20of%20Zero-Filled%20Subarrays/ZeroFilledSolution.java" target="_blank">Number of Zero-Filled Subarrays</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/smallest-even-multiple/" target="_blank"> #2413 </a> -
