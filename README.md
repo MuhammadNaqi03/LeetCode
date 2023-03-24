@@ -376,6 +376,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201221%20-%20Split%20a%20String%20into%20Balance%20Strings/SplitIntoBalacedStringsSolution.java" target="_blank">Split a String in Balanced Strings</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/" target="_blank"> #1309 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201309%20-%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/DecryptStringSolution.java" target="_blank">Decrypt String from Alphabet to Integer Mapping</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/" target="_blank"> #1347 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201347%20-%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/MinStepAnagramSolution.java" target="_blank">Minimum Number of Steps to Make Two Strings Anagram</a>
   </li>
