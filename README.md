@@ -237,6 +237,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/PangramSolution.java" target="_blank">Check if the Sentence Is Pangram</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/maximum-ice-cream-bars/" target="_blank"> #1833 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201833%20-%20Maximum%20Ice%20Cream%20Bars/MaxIceCreamSolution.java" target="_blank">Maximum Ice Cream Bars</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/watering-plants/" target="_blank"> #2079 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202079%20-%20Watering%20Plants/WateringPlantsSolution.java" target="_blank">Watering Plants</a>
   </li>
@@ -937,6 +941,10 @@
   <li>
     <a href="https://leetcode.com/problems/split-a-string-in-balanced-strings/" target="_blank"> #1221 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201221%20-%20Split%20a%20String%20into%20Balance%20Strings/SplitIntoBalacedStringsSolution.java" target="_blank">Split a String in Balanced Strings</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/maximum-ice-cream-bars/" target="_blank"> #1833 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201833%20-%20Maximum%20Ice%20Cream%20Bars/MaxIceCreamSolution.java" target="_blank">Maximum Ice Cream Bars</a>
   </li>
 </ul>
 
