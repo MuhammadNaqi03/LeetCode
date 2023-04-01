@@ -515,6 +515,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20876%20-%20Middle%20of%20the%20Linked%20LIst/LinkedListMiddleSolution.java" target="_blank">Middle of the Linked List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/" target="_blank"> #1171 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201171%20-%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/RemoveZeroSumSolution.java" target="_blank">Remove Zero Sum Consecutive Nodes from Linked List</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/" target="_blank"> #1290 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201290%20-%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/BinaryToIntSolution.java" target="_blank">Convert Binary Number in a Linked List to Integer</a>
   </li>
