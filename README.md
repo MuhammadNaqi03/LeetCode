@@ -332,6 +332,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20434%20-%20Number%20of%20Segments%20in%20a%20String/SegmentNumberSolution.java" target="_blank">Number of Segments in a String</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/detect-capital/" target="_blank"> #520 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20520%20-%20Detect%20Capital/DetectCapitalSolution.java" target="_blank">Detect Capital</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/" target="_blank"> #557 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20557%20-%20Reverse%20Words%20in%20a%20String%20III/ReverseWords3Solution.java" target="_blank">Reverse Words in a String III</a>
   </li>
