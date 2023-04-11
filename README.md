@@ -1181,6 +1181,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20389%20-%20Find%20the%20Difference/FindDifferenceSolution.java" target="_blank">Find the Difference</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/hamming-distance/" target="_blank"> #461 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20461-%20Hamming%20Distance/HammingDistanceSolution.java" target="_blank">Hamming Distance</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/binary-number-with-alternating-bits/" target="_blank"> #693 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20693%20-%20Binary%20Number%20with%20Alternating%20Bits/AlternatingBitsSolution.java" target="_blank">Binary Number with Alternating Bits</a>
   </li>
