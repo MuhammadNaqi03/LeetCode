@@ -1306,6 +1306,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201148%20-%20Article%20Views%201/ArticleViews.sql" target="_blank">Article Views</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/" target="_blank"> #1378 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201378%20-%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier/ReplaceEmployeeId.sql" target="_blank">Replace Employee ID With The Unique Identifier</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/capital-gainloss/" target="_blank"> #1393 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201393%20-%20Capital%20Gain%20or%20Loss/GainLossSolution.sql" target="_blank">Capital Gain/Loss</a>
   </li>
