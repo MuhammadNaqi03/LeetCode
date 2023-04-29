@@ -256,6 +256,10 @@
     <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/" target="_blank"> #2348 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202348%20-%20Number%20of%20Zero-Filled%20Subarrays/ZeroFilledSolution.java" target="_blank">Number of Zero-Filled Subarrays</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/" target="_blank"> #2433 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202433%20-%20Find%20The%20Original%20Array%20of%20Prefix%20Xor/PrefixXorSolution.java" target="_blank">Find The Original Array of Prefix Xor</a>
+  </li>
 </ul>
 
 <br>
@@ -1199,6 +1203,10 @@
   <li>
     <a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number/" target="_blank"> #2220 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202220%20-%20Minimum%20Bit%20Flips%20to%20Convert%20Numbe/MinBitFlipSolution.java" target="_blank">Minimum Bit Flips to Convert Number</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/" target="_blank"> #2433 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202433%20-%20Find%20The%20Original%20Array%20of%20Prefix%20Xor/PrefixXorSolution.java" target="_blank">Find The Original Array of Prefix Xor</a>
   </li>
 </ul>
 
