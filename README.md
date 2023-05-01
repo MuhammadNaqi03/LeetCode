@@ -213,6 +213,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201480%20-%20Running%20Sum%20of%201D%20Array/RunningSum1dSolution.java" target="_blank">Running Sum of 1d Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/" target="_blank"> #1491 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201491%20-%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/AvgSalarySolution.java" target="_blank">Average Salary Excluding the Minimum and Maximum Salary</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/number-of-good-pairs/" target="_blank"> #1512 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201512%20-%20Number%20of%20Good%20Pairs/GoodPairsSolution.java" target="_blank">Number of Good Pairs</a>
   </li>
