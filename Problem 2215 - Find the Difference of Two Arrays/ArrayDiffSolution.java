@@ -5,7 +5,7 @@ class ArrayDiffSolution {
      * Put the integers of the two arrays inside two different sets
      * (arraylist can be used as well, but exclude the duplicates).
      * Then loop again through the arrays and compare the numbers
-     * with the set of numbers created before.
+     * with the sets of numbers created before.
      */
 
     HashSet <Integer> nums1Set = new HashSet<>();
