@@ -1397,3 +1397,18 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20195%20-%20Tenth%20Line/tenth_line.sh" target="_blank">Tenth Line</a>
   </li>
 </ul>
+
+<br>
+
+<!-- JavaScript & TypeScript -->
+<h2> JavaScript & TypeScript </h2>
+<ul>
+  <li>
+    <a href="https://leetcode.com/problems/counter" target="_blank"> #2620 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202620%20-%20Counter" target="_blank">Counter</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/create-hello-world-function/" target="_blank"> #2667 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202667%20-%20Create%20Hello%20World%20Function" target="_blank">Create Hello World Function</a>
+  </li>
+</ul>
