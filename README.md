@@ -1404,8 +1404,20 @@
 <h2> JavaScript & TypeScript </h2>
 <ul>
   <li>
-    <a href="https://leetcode.com/problems/counter" target="_blank"> #2620 </a> -
+    <a href="https://leetcode.com/problems/counter/" target="_blank"> #2620 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202620%20-%20Counter" target="_blank">Counter</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/filter-elements-from-array/" target="_blank"> #2634 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202634%20-%20Filter%20Elements%20from%20Array" target="_blank">Filter Elements from Array</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/apply-transform-over-each-element-in-array/" target="_blank"> #2635 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202635%20-%20Apply%20Transform%20Over%20Each%20Element%20in%20Array" target="_blank">Apply Transform Over Each Element in Array</a>
+  </li>
+    <li>
+    <a href="https://leetcode.com/problems/counter-ii/" target="_blank"> #2665 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202665%20-%20Counter%20II" target="_blank">Counter II</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/create-hello-world-function/" target="_blank"> #2667 </a> -
