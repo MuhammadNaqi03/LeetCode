@@ -1408,6 +1408,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202620%20-%20Counter" target="_blank">Counter</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/array-reduce-transformation/" target="_blank"> #2626 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202626%20-%20Array%20Reduce%20Transformation" target="_blank">Array Reduce Transformation</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/filter-elements-from-array/" target="_blank"> #2634 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202634%20-%20Filter%20Elements%20from%20Array" target="_blank">Filter Elements from Array</a>
   </li>
