@@ -1412,6 +1412,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202626%20-%20Array%20Reduce%20Transformation" target="_blank">Array Reduce Transformation</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/function-composition/" target="_blank"> #2629 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202629%20-%20Function%20Composition" target="_blank">Function Composition</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/filter-elements-from-array/" target="_blank"> #2634 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202634%20-%20Filter%20Elements%20from%20Array" target="_blank">Filter Elements from Array</a>
   </li>
