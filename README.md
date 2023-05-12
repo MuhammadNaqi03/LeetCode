@@ -1423,9 +1423,13 @@
     <a href="https://leetcode.com/problems/apply-transform-over-each-element-in-array/" target="_blank"> #2635 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202635%20-%20Apply%20Transform%20Over%20Each%20Element%20in%20Array" target="_blank">Apply Transform Over Each Element in Array</a>
   </li>
-    <li>
+  <li>
     <a href="https://leetcode.com/problems/counter-ii/" target="_blank"> #2665 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202665%20-%20Counter%20II" target="_blank">Counter II</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/allow-one-function-call/" target="_blank"> #2666 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202666%20-%20Allow%20One%20Function%20Call" target="_blank">Allow One Function Call</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/create-hello-world-function/" target="_blank"> #2667 </a> -
