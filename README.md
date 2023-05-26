@@ -1443,4 +1443,8 @@
     <a href="https://leetcode.com/problems/create-hello-world-function/" target="_blank"> #2667 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202667%20-%20Create%20Hello%20World%20Function" target="_blank">Create Hello World Function</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/chunk-array/" target="_blank"> #2677 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202677%20-%20Chunk%20Array" target="_blank">Chunk Array</a>
+  </li>
 </ul>
