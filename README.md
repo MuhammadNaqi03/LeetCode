@@ -1246,6 +1246,10 @@
     <a href="https://leetcode.com/problems/design-browser-history/" target="_blank"> #1472 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201472%20-%20Design%20Browser%20History/BrowserHistorySolution.java" target="_blank">Design Browser History</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/design-parking-system/" target="_blank"> #1603 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201603%20-%20Design%20Parking%20System/ParkingSystemSolution.java" target="_blank">Design Parking System</a>
+  </li>
 </ul>
 
 <br>
