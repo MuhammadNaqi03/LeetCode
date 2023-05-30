@@ -1027,6 +1027,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20844%20-%20Backspace%20String%20Compare/BackspaceStringSolution.java" target="_blank">Backspace String Compare</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/design-parking-system/" target="_blank"> #1603 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201603%20-%20Design%20Parking%20System/ParkingSystemSolution.java" target="_blank">Design Parking System</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/incremental-memory-leak/" target="_blank"> #1860 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201860%20-%20Incremental%20Memory%20Leak/MemoryLeakSolution.java" target="_blank">Incremental Memory Leak</a>
   </li>
