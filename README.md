@@ -1397,6 +1397,10 @@
     <a href="https://leetcode.com/problems/the-latest-login-in-2020/" target="_blank"> #1890 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201890%20-%20The%20Latest%20Login%20in%202020/LatestLoginSolution.sql" target="_blank">The Latest Login in 2020</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/" target="_blank"> #2356 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202356%20-%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/UniqueSubjects.sql" target="_blank">Number of Unique Subjects Taught by Each Teacher</a>
+  </li>
 </ul>
 
 <br>
