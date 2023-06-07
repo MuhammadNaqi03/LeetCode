@@ -221,6 +221,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201491%20-%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/AvgSalarySolution.java" target="_blank">Average Salary Excluding the Minimum and Maximum Salary</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/" target="_blank"> #1502 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201502%20-%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence/ArithmeticProgressionSolution.java" target="_blank">Can Make Arithmetic Progression From Sequence</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/number-of-good-pairs/" target="_blank"> #1512 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201512%20-%20Number%20of%20Good%20Pairs/GoodPairsSolution.java" target="_blank">Number of Good Pairs</a>
   </li>
