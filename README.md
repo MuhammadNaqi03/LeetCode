@@ -173,6 +173,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20739%20-%20Daily%20Temperatures/DailyTemperaturesSolution.java" target="_blank">Daily Temperatures</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/" target="_blank"> #744 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target/NextGreatLetterSolution.java" target="_blank">Find Smallest Letter Greater Than Target</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/monotonic-array/" target="_blank"> #896 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20896%20-%20Monotonic%20Array/MonotonicArraySolution.java" target="_blank">Monotonic Array</a>
   </li>
@@ -915,6 +919,10 @@
   <li>
     <a href="https://leetcode.com/problems/binary-search/" target="_blank"> #704 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20704%20-%20Binary%20Search/BinarySearchSolution.java" target="_blank">Binary Search</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/" target="_blank"> #744 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target/NextGreatLetterSolution.java" target="_blank">Find Smallest Letter Greater Than Target</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/kth-missing-positive-number/" target="_blank"> #1539 </a> -
