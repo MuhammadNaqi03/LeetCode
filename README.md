@@ -348,6 +348,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20383%20-%20Ransom%20Note/RansomNoteSolution.java" target="_blank">Ransom Note</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/first-unique-character-in-a-string/" target="_blank"> #387 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20387%20-%20First%20Unique%20Character%20in%20a%20String/UniqueCharSolution.java" target="_blank">First Unique Character in a String</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/find-the-difference/" target="_blank"> #389 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20389%20-%20Find%20the%20Difference/FindDifferenceSolution.java" target="_blank">Find the Difference</a>
   </li>
