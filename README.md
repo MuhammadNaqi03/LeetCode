@@ -249,6 +249,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201672%20-%20Richest%20Customer%20Wealth/RichestCustomerSolution.java" target="_blank">Richest Customer Wealth</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-the-highest-altitude/" target="_blank"> #1732 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201732%20-%20Find%20the%20Highest%20Altitude/HighestAltSolution.java" target="_blank">Find the Highest Altitude</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/" target="_blank"> #1832 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/PangramSolution.java" target="_blank">Check if the Sentence Is Pangram</a>
   </li>
