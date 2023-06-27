@@ -555,6 +555,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20876%20-%20Middle%20of%20the%20Linked%20LIst/LinkedListMiddleSolution.java" target="_blank">Middle of the Linked List</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/next-greater-node-in-linked-list/" target="_blank"> #1019 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201019%20-%20Next%20Greater%20Node%20In%20Linked%20List/NextGreaterNodeSolution.java" target="_blank">Next Greater Node In Linked List</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/" target="_blank"> #1171 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201171%20-%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List/RemoveZeroSumSolution.java" target="_blank">Remove Zero Sum Consecutive Nodes from Linked List</a>
   </li>
@@ -658,6 +662,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20938%20-%20Range%20Sum%20of%20BST/BSTRangeSumSolution.java" target="_blank">Range Sum of BST</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/next-greater-node-in-linked-list/" target="_blank"> #1019 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201019%20-%20Next%20Greater%20Node%20In%20Linked%20List/NextGreaterNodeSolution.java" target="_blank">Next Greater Node In Linked List</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/" target="_blank"> #1047 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201047%20-%20Remove%20All%20Adjacent%20Duplicates%20In%20String/AdjacentDuplicateSolution.java" target="_blank">Remove All Adjacent Duplicates In String</a>
   </li>
@@ -683,6 +691,10 @@
   <li>
     <a href="https://leetcode.com/problems/daily-temperatures/" target="_blank"> #739 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20739%20-%20Daily%20Temperatures/DailyTemperaturesSolution.java" target="_blank">Daily Temperatures</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/next-greater-node-in-linked-list/" target="_blank"> #1019 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201019%20-%20Next%20Greater%20Node%20In%20Linked%20List/NextGreaterNodeSolution.java" target="_blank">Next Greater Node In Linked List</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/remove-nodes-from-linked-list/" target="_blank"> #2487 </a> -
