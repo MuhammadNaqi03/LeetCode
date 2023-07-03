@@ -1253,6 +1253,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20762%20-%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/PrimeSetBitsSolution.java" target="_blank">Prime Number of Set Bits in Binary Representation</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/binary-gap/" target="_blank"> #868 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20868%20-%20Binary%20Gap/BinaryGapSolution.java" target="_blank">Binary Gap</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/" target="_blank"> #1832 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/PangramSolution.java" target="_blank">Check if the Sentence Is Pangram</a>
   </li>
