@@ -448,6 +448,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201704%20-%20Determine%20if%20String%20Halves%20Are%20Alike/AlikeStringHalvesSolution.java" target="_blank">Determine if String Halves Are Alike</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/truncate-sentence/" target="_blank"> #1816 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201816%20-%20Truncate%20Sentence/TruncateSentenceSolution.java" target="_blank">Truncate Sentence</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/" target="_blank"> #1832 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/PangramSolution.java" target="_blank">Check if the Sentence Is Pangram</a>
   </li>
