@@ -253,6 +253,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201732%20-%20Find%20the%20Highest%20Altitude/HighestAltSolution.java" target="_blank">Find the Highest Altitude</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/" target="_blank"> #1822 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201822%20-%20Sign%20of%20the%20Product%20of%20an%20Array/SignOfProductSolution.java" target="_blank">Sign of the Product of an Array</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/" target="_blank"> #1832 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/PangramSolution.java" target="_blank">Check if the Sentence Is Pangram</a>
   </li>
@@ -1188,6 +1192,10 @@
   <li>
     <a href="https://leetcode.com/problems/number-of-good-pairs/" target="_blank"> #1512 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201512%20-%20Number%20of%20Good%20Pairs/GoodPairsSolution.java" target="_blank">Number of Good Pairs</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/" target="_blank"> #1822 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201822%20-%20Sign%20of%20the%20Product%20of%20an%20Array/SignOfProductSolution.java" target="_blank">Sign of the Product of an Array</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/" target="_blank"> #2348 </a> -
