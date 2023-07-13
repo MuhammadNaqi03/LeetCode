@@ -277,6 +277,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/MaxWordsSolution.java" target="_blank">Maximum Number of Words Found in Sentences</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/partition-array-according-to-given-pivot/" target="_blank"> #2161 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202161%20-%20Partition%20Array%20According%20to%20Given%20Pivot/PivotPartitionSolution.java" target="_blank">Partition Array According to Given Pivot</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/find-the-difference-of-two-arrays/" target="_blank"> #2215 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202215%20-%20Find%20the%20Difference%20of%20Two%20Arrays/ArrayDiffSolution.java" target="_blank">Find the Difference of Two Arrays</a>
   </li>
@@ -894,6 +898,10 @@
     <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/" target="_blank"> #2130 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202130%20-%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaxTwinSumSolution.java" target="_blank">Maximum Twin Sum of a Linked List</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/partition-array-according-to-given-pivot/" target="_blank"> #2161 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202161%20-%20Partition%20Array%20According%20to%20Given%20Pivot/PivotPartitionSolution.java" target="_blank">Partition Array According to Given Pivot</a>
+  </li>
 </ul>
 
 <br>
@@ -1081,6 +1089,10 @@
   <li>
     <a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/" target="_blank"> #2011 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/partition-array-according-to-given-pivot/" target="_blank"> #2161 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202161%20-%20Partition%20Array%20According%20to%20Given%20Pivot/PivotPartitionSolution.java" target="_blank">Partition Array According to Given Pivot</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/" target="_blank"> #2181 </a> -
