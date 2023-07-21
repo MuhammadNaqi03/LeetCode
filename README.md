@@ -1394,6 +1394,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201050%20-%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times/ActorsDirectorsSolution.sql" target="_blank">Actors and Directors Who Cooperated At Least Three Times</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/product-sales-analysis-i/" target="_blank"> #1068 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201068%20-%20Product%20Sales%20Analysis%20I/SalesAnalysis1.sql" target="_blank">Product Sales Analysis I</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i/" target="_blank"> #1141 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201141%20-%20User%20Activity%20for%20the%20Past%2030%20Days%20I/UserActivity1.sql" target="_blank">User Activity for the Past 30 Days I</a>
   </li>
