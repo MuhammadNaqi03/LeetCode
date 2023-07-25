@@ -177,6 +177,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target/NextGreatLetterSolution.java" target="_blank">Find Smallest Letter Greater Than Target</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/" target="_blank"> #852 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20852%20-%20Peak%20Index%20in%20a%20Mountain%20Array/PeakIndexSolution.java" target="_blank">Peak Index in a Mountain Array</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/monotonic-array/" target="_blank"> #896 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20896%20-%20Monotonic%20Array/MonotonicArraySolution.java" target="_blank">Monotonic Array</a>
   </li>
@@ -959,6 +963,10 @@
   <li>
     <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/" target="_blank"> #744 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target/NextGreatLetterSolution.java" target="_blank">Find Smallest Letter Greater Than Target</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/" target="_blank"> #852 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20852%20-%20Peak%20Index%20in%20a%20Mountain%20Array/PeakIndexSolution.java" target="_blank">Peak Index in a Mountain Array</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/kth-missing-positive-number/" target="_blank"> #1539 </a> -
