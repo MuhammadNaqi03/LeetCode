@@ -1289,6 +1289,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20868%20-%20Binary%20Gap/BinaryGapSolution.java" target="_blank">Binary Gap</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/" target="_blank"> #1318 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201318%20-%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/OREqualitySolution.java" target="_blank">Minimum Flips to Make a OR b Equal to c</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/" target="_blank"> #1832 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/PangramSolution.java" target="_blank">Check if the Sentence Is Pangram</a>
   </li>
