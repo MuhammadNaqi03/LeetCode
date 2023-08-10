@@ -229,6 +229,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201491%20-%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/AvgSalarySolution.java" target="_blank">Average Salary Excluding the Minimum and Maximum Salary</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/" target="_blank"> #1493 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201493%20-%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/LongestSubarraySolution.java" target="_blank">Longest Subarray of 1's After Deleting One Element</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/" target="_blank"> #1502 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201502%20-%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence/ArithmeticProgressionSolution.java" target="_blank">Can Make Arithmetic Progression From Sequence</a>
   </li>
