@@ -1482,6 +1482,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201890%20-%20The%20Latest%20Login%20in%202020/LatestLoginSolution.sql" target="_blank">The Latest Login in 2020</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/the-number-of-rich-customers/" target="_blank"> #2082 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202082%20-%20The%20Number%20of%20Rich%20Customers/RichCustomerCount.sql" target="_blank">The Number of Rich Customers</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/" target="_blank"> #2356 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202356%20-%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/UniqueSubjects.sql" target="_blank">Number of Unique Subjects Taught by Each Teacher</a>
   </li>
