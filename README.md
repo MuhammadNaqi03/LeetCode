@@ -464,6 +464,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201704%20-%20Determine%20if%20String%20Halves%20Are%20Alike/AlikeStringHalvesSolution.java" target="_blank">Determine if String Halves Are Alike</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/count-items-matching-a-rule/" target="_blank"> #1773 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201773%20-%20Count%20Items%20Matching%20a%20Rule/RuleMatchingItemSolution.java" target="_blank">Count Items Matching a Rule</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/truncate-sentence/" target="_blank"> #1816 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201816%20-%20Truncate%20Sentence/TruncateSentenceSolution.java" target="_blank">Truncate Sentence</a>
   </li>
