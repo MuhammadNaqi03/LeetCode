@@ -1555,4 +1555,8 @@
     <a href="https://leetcode.com/problems/chunk-array/" target="_blank"> #2677 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202677%20-%20Chunk%20Array" target="_blank">Chunk Array</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/return-length-of-arguments-passed/" target="_blank"> #2703 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/tree/master/Problem%202703%20-%20Return%20Length%20of%20Arguments%20Passed" target="_blank">Return Length of Arguments Passed</a>
+  </li>
 </ul>
