@@ -460,6 +460,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201678%20-%20Goal%20Parser%20Interpretation/GoalParserSolution.java" target="_blank">Goal Parser Interpretation</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/" target="_blank"> #1689 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201689%20-%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/DeciBinarySolution.java" target="_blank">Partitioning Into Minimum Number Of Deci-Binary Numbers</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/" target="_blank"> #1704 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201704%20-%20Determine%20if%20String%20Halves%20Are%20Alike/AlikeStringHalvesSolution.java" target="_blank">Determine if String Halves Are Alike</a>
   </li>
@@ -1037,6 +1041,10 @@
   <li>
     <a href="https://leetcode.com/problems/split-a-string-in-balanced-strings/" target="_blank"> #1221 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201221%20-%20Split%20a%20String%20into%20Balance%20Strings/SplitIntoBalacedStringsSolution.java" target="_blank">Split a String in Balanced Strings</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/" target="_blank"> #1689 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201689%20-%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/DeciBinarySolution.java" target="_blank">Partitioning Into Minimum Number Of Deci-Binary Numbers</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/maximum-ice-cream-bars/" target="_blank"> #1833 </a> -
