@@ -487,6 +487,10 @@
     <a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/" target="_blank"> #2114 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/MaxWordsSolution.java" target="_blank">Maximum Number of Words Found in Sentences</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/decode-the-message/" target="_blank"> #2325 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202325%20-%20Decode%20the%20Message/DecodeMessageSolution.java" target="_blank">Decode the Message</a>
+  </li>
 </ul>
 
 <br>
