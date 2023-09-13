@@ -169,6 +169,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20704%20-%20Binary%20Search/BinarySearchSolution.java" target="_blank">Binary Search</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/1-bit-and-2-bit-characters/" target="_blank"> #717 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20717%20-%201-bit%20and%202-bit%20Characters/BitCharSolution.java" target="_blank">1-bit and 2-bit Characters</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/daily-temperatures/" target="_blank"> #739 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20739%20-%20Daily%20Temperatures/DailyTemperaturesSolution.java" target="_blank">Daily Temperatures</a>
   </li>
