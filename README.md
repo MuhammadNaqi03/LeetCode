@@ -137,6 +137,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20485%20-%20Max%20Consecutive%20Ones/ConsecutiveOnesSolution.java" target="_blank">Max Consecutive Ones</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/teemo-attacking/" target="_blank"> #495 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20495%20-%20Teemo%20Attacking/TeemoSolution.java" target="_blank">Teemo Attacking</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/next-greater-element-i/" target="_blank"> #496 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20496%20-%20Next%20Greater%20Element%20I/NextGreater1Solution.java" target="_blank">Next Greater Element I</a>
   </li>
@@ -1105,6 +1109,10 @@
   <li>
     <a href="https://leetcode.com/problems/add-digits/" target="_blank"> #258 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20258%20-%20Add%20Digits/AddDigitsSolution.java" target="_blank">Add Digits</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/teemo-attacking/" target="_blank"> #495 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20495%20-%20Teemo%20Attacking/TeemoSolution.java" target="_blank">Teemo Attacking</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/backspace-string-compare/" target="_blank"> #844 </a> -
