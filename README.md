@@ -384,6 +384,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20389%20-%20Find%20the%20Difference/FindDifferenceSolution.java" target="_blank">Find the Difference</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/is-subsequence/" target="_blank"> #392 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20392%20-%20Is%20Subsequence/IsSubsequenceSolution.java" target="_blank">Is Subsequence</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/number-of-segments-in-a-string/" target="_blank"> #434 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20434%20-%20Number%20of%20Segments%20in%20a%20String/SegmentNumberSolution.java" target="_blank">Number of Segments in a String</a>
   </li>
@@ -889,6 +893,10 @@
   <li>
     <a href="https://leetcode.com/problems/intersection-of-two-arrays-ii/" target="_blank"> #350 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20350%20-%20Intersection%20of%20Two%20Arrays%202/ArrIntersection2Solution.java" target="_blank">Intersection of Two Arrays II</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/is-subsequence/" target="_blank"> #392 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20392%20-%20Is%20Subsequence/IsSubsequenceSolution.java" target="_blank">Is Subsequence</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/" target="_blank"> #532 </a> -
