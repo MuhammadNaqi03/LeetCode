@@ -1458,6 +1458,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201068%20-%20Product%20Sales%20Analysis%20I/SalesAnalysis1.sql" target="_blank">Product Sales Analysis I</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/project-employees-i/" target="_blank"> #1075 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201075%20-%20Project%20Employees%20I/ProjectEmployees1.sql" target="_blank">Project Employees I</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i/" target="_blank"> #1141 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201141%20-%20User%20Activity%20for%20the%20Past%2030%20Days%20I/UserActivity1.sql" target="_blank">User Activity for the Past 30 Days I</a>
   </li>
