@@ -1250,6 +1250,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201137%20-%20Nth%20Tribonacci%20Number/NthTribonacciSolution.java" target="_blank">N-th Tribonacci Number</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/" target="_blank"> #1281 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201281%20-%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/SubtractProductNSumSolution.java" target="_blank">Subtract the Product and Sum of Digits of an Integer</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/" target="_blank"> #1290 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201290%20-%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/BinaryToIntSolution.java" target="_blank">Convert Binary Number in a Linked List to Integer</a>
   </li>
