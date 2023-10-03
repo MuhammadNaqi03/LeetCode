@@ -1474,6 +1474,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201148%20-%20Article%20Views%201/ArticleViews.sql" target="_blank">Article Views</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/list-the-products-ordered-in-a-period/" target="_blank"> #1327 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201327%20-%20List%20the%20Products%20Ordered%20in%20a%20Period/OrderedProducts.sql" target="_blank">List the Products Ordered in a Period</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/" target="_blank"> #1378 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201378%20-%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier/ReplaceEmployeeId.sql" target="_blank">Replace Employee ID With The Unique Identifier</a>
   </li>
