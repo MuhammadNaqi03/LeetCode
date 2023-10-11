@@ -496,6 +496,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202038%20-%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/ColoredPiecesSolution.java" target="_blank">Remove Colored Pieces if Both Neighbors are the Same Color</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/" target="_blank"> #2114 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/MaxWordsSolution.java" target="_blank">Maximum Number of Words Found in Sentences</a>
   </li>
@@ -1074,6 +1078,10 @@
     <a href="https://leetcode.com/problems/maximum-ice-cream-bars/" target="_blank"> #1833 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201833%20-%20Maximum%20Ice%20Cream%20Bars/MaxIceCreamSolution.java" target="_blank">Maximum Ice Cream Bars</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202038%20-%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/ColoredPiecesSolution.java" target="_blank">Remove Colored Pieces if Both Neighbors are the Same Color</a>
+  </li>
 </ul>
 
 <br>
@@ -1110,6 +1118,17 @@
   <li>
     <a href="https://leetcode.com/problems/longest-consecutive-sequence/" target="_blank"> #128 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20128%20-%20Longest%20Consecutive%20Sequence/LongestSequenceSolution.java" target="_blank">Longest Consecutive Sequence</a>
+  </li>
+</ul>
+
+<br>
+
+<!-- Game Theory -->
+<h2> Game Theory </h2>
+<ul>
+  <li>
+    <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202038%20-%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/ColoredPiecesSolution.java" target="_blank">Remove Colored Pieces if Both Neighbors are the Same Color</a>
   </li>
 </ul>
 
@@ -1264,6 +1283,10 @@
   <li>
     <a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/" target="_blank"> #1822 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201822%20-%20Sign%20of%20the%20Product%20of%20an%20Array/SignOfProductSolution.java" target="_blank">Sign of the Product of an Array</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202038%20-%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/ColoredPiecesSolution.java" target="_blank">Remove Colored Pieces if Both Neighbors are the Same Color</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/" target="_blank"> #2348 </a> -
