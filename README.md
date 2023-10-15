@@ -1469,6 +1469,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20608%20-%20Tree%20Node/TreeNodeSolution.sql" target="_blank">Tree Node</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/triangle-judgement/" target="_blank"> #610 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20610%20-%20Triangle%20Judgement/TriangleJudgement.sql" target="_blank">Triangle Judgement</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/not-boring-movies/" target="_blank"> #620 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20620%20-%20Not%20Boring%20Movies/NotBoringMovies.sql" target="_blank">Not Boring Movies</a>
   </li>
