@@ -308,6 +308,10 @@
     <a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/" target="_blank"> #2433 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202433%20-%20Find%20The%20Original%20Array%20of%20Prefix%20Xor/PrefixXorSolution.java" target="_blank">Find The Original Array of Prefix Xor</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/" target="_blank"> #2828 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202828%20-%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words/AcronymStringSolution.java" target="_blank">Check if a String Is an Acronym of Words</a>
+  </li>
 </ul>
 
 <br>
@@ -510,6 +514,10 @@
   <li>
     <a href="https://leetcode.com/problems/decode-the-message/" target="_blank"> #2325 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202325%20-%20Decode%20the%20Message/DecodeMessageSolution.java" target="_blank">Decode the Message</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/" target="_blank"> #2828 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202828%20-%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words/AcronymStringSolution.java" target="_blank">Check if a String Is an Acronym of Words</a>
   </li>
 </ul>
 
