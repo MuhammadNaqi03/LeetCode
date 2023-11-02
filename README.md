@@ -281,6 +281,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201833%20-%20Maximum%20Ice%20Cream%20Bars/MaxIceCreamSolution.java" target="_blank">Maximum Ice Cream Bars</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/" target="_blank"> #1877 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201877%20-%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/MinMaxPairSumSolution.java" target="_blank">Minimize Maximum Pair Sum in Array</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/watering-plants/" target="_blank"> #2079 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202079%20-%20Watering%20Plants/WateringPlantsSolution.java" target="_blank">Watering Plants</a>
   </li>
@@ -1089,6 +1093,10 @@
   <li>
     <a href="https://leetcode.com/problems/maximum-ice-cream-bars/" target="_blank"> #1833 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201833%20-%20Maximum%20Ice%20Cream%20Bars/MaxIceCreamSolution.java" target="_blank">Maximum Ice Cream Bars</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/" target="_blank"> #1877 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201877%20-%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/MinMaxPairSumSolution.java" target="_blank">Minimize Maximum Pair Sum in Array</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
