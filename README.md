@@ -496,6 +496,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram/PangramSolution.java" target="_blank">Check if the Sentence Is Pangram</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/replace-all-digits-with-characters/" target="_blank"> #1844 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201844%20-%20Replace%20All%20Digits%20with%20Characters/ReplaceDigitsWithCharsSolution.java" target="_blank">Replace All Digits with Characters</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/" target="_blank"> #2011 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
   </li>
