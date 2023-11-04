@@ -670,6 +670,10 @@
     <a href="https://leetcode.com/problems/remove-nodes-from-linked-list/" target="_blank"> #2487 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202487%20-%20Remove%20Nodes%20From%20Linked%20List/RemoveNodesSolution.java" target="_blank">Remove Nodes From Linked List</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/" target="_blank"> #2807 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202807%20-%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List/GCDLinkedListSolution.java" target="_blank">Insert Greatest Common Divisors in Linked List</a>
+  </li>
 </ul>
 
 <br>
@@ -1319,6 +1323,10 @@
   <li>
     <a href="https://leetcode.com/problems/convert-the-temperature/" target="_blank"> #2469 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202469%20-%20Convert%20the%20Temperature/ConvertTemperatureSolution.java" target="_blank">Convert the Temperature</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/" target="_blank"> #2807 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202807%20-%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List/GCDLinkedListSolution.java" target="_blank">Insert Greatest Common Divisors in Linked List</a>
   </li>
 </ul>
 
