@@ -520,6 +520,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202194%20-%20Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet/ExcelCellsSolution.java" target="_blank">Cells in a Range on an Excel Sheet</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/count-asterisks/" target="_blank"> #2315 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202315%20-%20Count%20Asterisks/CountAsterisksSolution.java" target="_blank">Count Asterisks</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/decode-the-message/" target="_blank"> #2325 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202325%20-%20Decode%20the%20Message/DecodeMessageSolution.java" target="_blank">Decode the Message</a>
   </li>
