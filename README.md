@@ -81,6 +81,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20150%20-%20Evaluate%20Reverse%20Polish%20Notation/RPNSolution.java" target="_blank">Evaluate Reverse Polish Notation</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/" target="_blank"> #153 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20153%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/RotatedSortedArrayMinSolution.java" target="_blank">Find Minimum in Rotated Sorted Array</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/" target="_blank"> #167 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20167%20-%20Two%20Sum%202/TwoSum2Solution.java" target="_blank">Two Sum 2 - Input Array Is Sorted</a>
   </li>
@@ -1003,6 +1007,10 @@
   <li>
     <a href="https://leetcode.com/problems/search-insert-position/" target="_blank"> #35 </a> - 
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%2035%20-%20Search%20Insert%20Position/SearchInsertPositionSolution.java" target="_blank">Search Insert Position</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/" target="_blank"> #153 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20153%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/RotatedSortedArrayMinSolution.java" target="_blank">Find Minimum in Rotated Sorted Array</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/missing-number/" target="_blank"> #268 </a> -
