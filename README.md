@@ -1337,6 +1337,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202469%20-%20Convert%20the%20Temperature/ConvertTemperatureSolution.java" target="_blank">Convert the Temperature</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-the-maximum-achievable-number/" target="_blank"> #2769 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202769%20-%20Find%20the%20Maximum%20Achievable%20Number/MaxAchievableNumSolution.java" target="_blank">Find the Maximum Achievable Number</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/" target="_blank"> #2807 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202807%20-%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List/GCDLinkedListSolution.java" target="_blank">Insert Greatest Common Divisors in Linked List</a>
   </li>
