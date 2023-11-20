@@ -225,6 +225,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201431%20-%20Kids%20with%20the%20Greatest%20Number%20of%20Candies/CandyKidsSolution.java" target="_blank">Kids With the Greatest Number of Candies</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/destination-city/" target="_blank"> #1436 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201436%20-%20Destination%20City/DestinationCitySolution.java" target="_blank">Destination City</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/" target="_blank"> #1450 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201450%20-%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time/StudentsDoingHWSolution.java" target="_blank">Number of Students Doing Homework at a Given Time</a>
   </li>
@@ -462,6 +466,10 @@
   <li>
     <a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/" target="_blank"> #1347 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201347%20-%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/MinStepAnagramSolution.java" target="_blank">Minimum Number of Steps to Make Two Strings Anagram</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/destination-city/" target="_blank"> #1436 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201436%20-%20Destination%20City/DestinationCitySolution.java" target="_blank">Destination City</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/" target="_blank"> #1456 </a> -
