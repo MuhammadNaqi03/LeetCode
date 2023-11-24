@@ -265,6 +265,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201539%20-%20Kth%20Missing%20Positive%20Number/KthMissingNumberSolution.java" target="_blank">Kth Missing Positive Number</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank"> #1561 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201561%20-%20Maximum%20Number%20of%20Coins%20You%20Can%20Get/MaxCoinSolution.java" target="_blank">Maximum Number of Coins You Can Get</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank"> #1662 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/EquivalentStringArraySolution.java" target="_blank">Check If Two String Arrays are Equivalent</a>
   </li>
@@ -1111,6 +1115,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201221%20-%20Split%20a%20String%20into%20Balance%20Strings/SplitIntoBalacedStringsSolution.java" target="_blank">Split a String in Balanced Strings</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank"> #1561 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201561%20-%20Maximum%20Number%20of%20Coins%20You%20Can%20Get/MaxCoinSolution.java" target="_blank">Maximum Number of Coins You Can Get</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/" target="_blank"> #1689 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201689%20-%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/DeciBinarySolution.java" target="_blank">Partitioning Into Minimum Number Of Deci-Binary Numbers</a>
   </li>
@@ -1170,6 +1178,10 @@
 <!-- Game Theory -->
 <h2> Game Theory </h2>
 <ul>
+  <li>
+    <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank"> #1561 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201561%20-%20Maximum%20Number%20of%20Coins%20You%20Can%20Get/MaxCoinSolution.java" target="_blank">Maximum Number of Coins You Can Get</a>
+  </li>
   <li>
     <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202038%20-%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/ColoredPiecesSolution.java" target="_blank">Remove Colored Pieces if Both Neighbors are the Same Color</a>
@@ -1323,6 +1335,10 @@
   <li>
     <a href="https://leetcode.com/problems/number-of-good-pairs/" target="_blank"> #1512 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201512%20-%20Number%20of%20Good%20Pairs/GoodPairsSolution.java" target="_blank">Number of Good Pairs</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank"> #1561 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201561%20-%20Maximum%20Number%20of%20Coins%20You%20Can%20Get/MaxCoinSolution.java" target="_blank">Maximum Number of Coins You Can Get</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/" target="_blank"> #1822 </a> -
