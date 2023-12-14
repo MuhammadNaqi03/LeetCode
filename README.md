@@ -520,6 +520,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201844%20-%20Replace%20All%20Digits%20with%20Characters/ReplaceDigitsWithCharsSolution.java" target="_blank">Replace All Digits with Characters</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/largest-odd-number-in-string/" target="_blank"> #1903 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201903%20-%20Largest%20Odd%20Number%20in%20String/LargestOddNumberSolution.java" target="_blank">Largest Odd Number in String</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/" target="_blank"> #2011 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
   </li>
@@ -1131,6 +1135,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201877%20-%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/MinMaxPairSumSolution.java" target="_blank">Minimize Maximum Pair Sum in Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/largest-odd-number-in-string/" target="_blank"> #1903 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201903%20-%20Largest%20Odd%20Number%20in%20String/LargestOddNumberSolution.java" target="_blank">Largest Odd Number in String</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202038%20-%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/ColoredPiecesSolution.java" target="_blank">Remove Colored Pieces if Both Neighbors are the Same Color</a>
   </li>
@@ -1343,6 +1351,10 @@
   <li>
     <a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/" target="_blank"> #1822 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201822%20-%20Sign%20of%20the%20Product%20of%20an%20Array/SignOfProductSolution.java" target="_blank">Sign of the Product of an Array</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/largest-odd-number-in-string/" target="_blank"> #1903 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201903%20-%20Largest%20Odd%20Number%20in%20String/LargestOddNumberSolution.java" target="_blank">Largest Odd Number in String</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
