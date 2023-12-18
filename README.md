@@ -297,6 +297,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201877%20-%20Minimize%20Maximum%20Pair%20Sum%20in%20Array/MinMaxPairSumSolution.java" target="_blank">Minimize Maximum Pair Sum in Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/" target="_blank"> #1913 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201913%20-%20Maximum%20Product%20Difference%20Between%20Two%20Pairs/MaxProductDiffSolution.java" target="_blank">Maximum Product Difference Between Two Pairs</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/watering-plants/" target="_blank"> #2079 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202079%20-%20Watering%20Plants/WateringPlantsSolution.java" target="_blank">Watering Plants</a>
   </li>
