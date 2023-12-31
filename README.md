@@ -269,6 +269,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201561%20-%20Maximum%20Number%20of%20Coins%20You%20Can%20Get/MaxCoinSolution.java" target="_blank">Maximum Number of Coins You Can Get</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/" target="_blank"> #1624 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201624%20-%20Largest%20Substring%20Between%20Two%20Equal%20Characters/MaxLengthInSameCharsSoluton.java" target="_blank">Largest Substring Between Two Equal Characters</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank"> #1662 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/EquivalentStringArraySolution.java" target="_blank">Check If Two String Arrays are Equivalent</a>
   </li>
@@ -490,6 +494,10 @@
   <li>
     <a href="https://leetcode.com/problems/make-the-string-great/" target="_blank"> #1544 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201544%20-%20Make%20The%20String%20Great/MakeStringGreatSolution.java" target="_blank">Make The String Great</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/" target="_blank"> #1624 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201624%20-%20Largest%20Substring%20Between%20Two%20Equal%20Characters/MaxLengthInSameCharsSoluton.java" target="_blank">Largest Substring Between Two Equal Characters</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/" target="_blank"> #1662 </a> -
