@@ -317,6 +317,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/MaxWordsSolution.java" target="_blank">Maximum Number of Words Found in Sentences</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/" target="_blank"> #2125 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202125%20-%20Number%20of%20Laser%20Beams%20in%20a%20Bank/NumberOfBeamsSolution.java" target="_blank">Number of Laser Beams in a Bank</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/partition-array-according-to-given-pivot/" target="_blank"> #2161 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202161%20-%20Partition%20Array%20According%20to%20Given%20Pivot/PivotPartitionSolution.java" target="_blank">Partition Array According to Given Pivot</a>
   </li>
@@ -546,6 +550,10 @@
   <li>
     <a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/" target="_blank"> #2114 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/MaxWordsSolution.java" target="_blank">Maximum Number of Words Found in Sentences</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/" target="_blank"> #2125 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202125%20-%20Number%20of%20Laser%20Beams%20in%20a%20Bank/NumberOfBeamsSolution.java" target="_blank">Number of Laser Beams in a Bank</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/" target="_blank"> #2194 </a> -
@@ -858,6 +866,10 @@
   <li>
     <a href="https://leetcode.com/problems/richest-customer-wealth/" target="_blank"> #1672 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201672%20-%20Richest%20Customer%20Wealth/RichestCustomerSolution.java" target="_blank">Richest Customer Wealth</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/" target="_blank"> #2125 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202125%20-%20Number%20of%20Laser%20Beams%20in%20a%20Bank/NumberOfBeamsSolution.java" target="_blank">Number of Laser Beams in a Bank</a>
   </li>
 </ul>
 
@@ -1371,6 +1383,10 @@
   <li>
     <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202038%20-%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/ColoredPiecesSolution.java" target="_blank">Remove Colored Pieces if Both Neighbors are the Same Color</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/" target="_blank"> #2125 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202125%20-%20Number%20of%20Laser%20Beams%20in%20a%20Bank/NumberOfBeamsSolution.java" target="_blank">Number of Laser Beams in a Bank</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/" target="_blank"> #2348 </a> -
