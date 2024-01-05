@@ -281,6 +281,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201672%20-%20Richest%20Customer%20Wealth/RichestCustomerSolution.java" target="_blank">Richest Customer Wealth</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/count-the-number-of-consistent-strings/" target="_blank"> #1684 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201684%20-%20Count%20the%20Number%20of%20Consistent%20Strings/ConsistentStringSolution.java" target="_blank">Count the Number of Consistent Strings</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/find-the-highest-altitude/" target="_blank"> #1732 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201732%20-%20Find%20the%20Highest%20Altitude/HighestAltSolution.java" target="_blank">Find the Highest Altitude</a>
   </li>
@@ -514,6 +518,10 @@
   <li>
     <a href="https://leetcode.com/problems/goal-parser-interpretation/" target="_blank"> #1678 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201678%20-%20Goal%20Parser%20Interpretation/GoalParserSolution.java" target="_blank">Goal Parser Interpretation</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/count-the-number-of-consistent-strings/" target="_blank"> #1684 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201684%20-%20Count%20the%20Number%20of%20Consistent%20Strings/ConsistentStringSolution.java" target="_blank">Count the Number of Consistent Strings</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/" target="_blank"> #1689 </a> -
