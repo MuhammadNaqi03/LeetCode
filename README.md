@@ -1178,7 +1178,7 @@
     <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202038%20-%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/ColoredPiecesSolution.java" target="_blank">Remove Colored Pieces if Both Neighbors are the Same Color</a>
   </li>
-    <li>
+  <li>
     <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/" target="_blank"> #2870 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202870%20-%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty/MinOperationsToEmptySolution.java" target="_blank">Minimum Number of Operations to Make Array Empty</a>
   </li>
@@ -1207,6 +1207,53 @@
   <li>
     <a href="https://leetcode.com/problems/running-sum-of-1d-array/" target="_blank"> #1480 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201480%20-%20Running%20Sum%20of%201D%20Array/RunningSum1dSolution.java" target="_blank">Running Sum of 1d Array</a>
+  </li>
+</ul>
+
+<br>
+
+<!-- Counting -->
+<h2> Counting </h2>
+<ul>
+  <li>
+    <a href="https://leetcode.com/problems/majority-element/" target="_blank"> #169 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20169%20-%20Majority%20Element/MajorityElementSolution.java" target="_blank">Majority Element</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/ransom-note/" target="_blank"> #383 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20383%20-%20Ransom%20Note/RansomNoteSolution.java" target="_blank">Ransom Note</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/first-unique-character-in-a-string/" target="_blank"> #387 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20387%20-%20First%20Unique%20Character%20in%20a%20String/UniqueCharSolution.java" target="_blank">First Unique Character in a String</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/split-a-string-in-balanced-strings/" target="_blank"> #1221 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201221%20-%20Split%20a%20String%20into%20Balance%20Strings/SplitIntoBalacedStringsSolution.java" target="_blank">Split a String in Balanced Strings</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/" target="_blank"> #1347 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201347%20-%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram/MinStepAnagramSolution.java" target="_blank">Minimum Number of Steps to Make Two Strings Anagram</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/" target="_blank"> #1365 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201365%20-%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/SmallerNumberCountSolution.java" target="_blank">How Many Numbers Are Smaller Than the Current Number</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/number-of-good-pairs/" target="_blank"> #1512 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201512%20-%20Number%20of%20Good%20Pairs/GoodPairsSolution.java" target="_blank">Number of Good Pairs</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/design-parking-system/" target="_blank"> #1603 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201603%20-%20Design%20Parking%20System/ParkingSystemSolution.java" target="_blank">Design Parking System</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/" target="_blank"> #1704 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201704%20-%20Determine%20if%20String%20Halves%20Are%20Alike/AlikeStringHalvesSolution.java" target="_blank">Determine if String Halves Are Alike</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/" target="_blank"> #2870 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202870%20-%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty/MinOperationsToEmptySolution.java" target="_blank">Minimum Number of Operations to Make Array Empty</a>
   </li>
 </ul>
 
