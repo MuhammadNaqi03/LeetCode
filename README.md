@@ -217,6 +217,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20977%20-%20Squares%20of%20a%20Sorted%20Array/SquaresOfSortedArraySolution.java" target="_blank">Squares of a Sorted Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/" target="_blank"> #1295 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201295%20-%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/FindEvenDigitSolution.java" target="_blank">Find Numbers with Even Number of Digits</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/" target="_blank"> #1365 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201365%20-%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/SmallerNumberCountSolution.java" target="_blank">How Many Numbers Are Smaller Than the Current Number</a>
   </li>
