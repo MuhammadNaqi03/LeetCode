@@ -1278,6 +1278,10 @@
 <h2> Game Theory </h2>
 <ul>
   <li>
+    <a href="https://leetcode.com/problems/nim-game/" target="_blank"> #292 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20292%20-%20Nim%20Game/NimGameSolution.java" target="_blank">Nim Game</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank"> #1561 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201561%20-%20Maximum%20Number%20of%20Coins%20You%20Can%20Get/MaxCoinSolution.java" target="_blank">Maximum Number of Coins You Can Get</a>
   </li>
@@ -1394,6 +1398,10 @@
   <li>
     <a href="https://leetcode.com/problems/missing-number/" target="_blank"> #268 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20268%20-%20Missing%20Number/MissingNumberSolution.java" target="_blank">Missing Number</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/nim-game/" target="_blank"> #292 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20292%20-%20Nim%20Game/NimGameSolution.java" target="_blank">Nim Game</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/power-of-three/" target="_blank"> #326 </a> -
