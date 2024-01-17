@@ -217,6 +217,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20977%20-%20Squares%20of%20a%20Sorted%20Array/SquaresOfSortedArraySolution.java" target="_blank">Squares of a Sorted Array</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/unique-number-of-occurrences/" target="_blank"> #1207 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201207%20-%20Unique%20Number%20of%20Occurrences/UniqueOccurrencesSolution.java" target="_blank">Unique Number of Occurrences</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/" target="_blank"> #1295 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201295%20-%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/FindEvenDigitSolution.java" target="_blank">Find Numbers with Even Number of Digits</a>
   </li>
