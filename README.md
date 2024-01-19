@@ -1566,6 +1566,17 @@
 
 <br>
 
+<!-- Brainteaser -->
+<h2> Brainteaser </h2>
+<ul>
+  <li>
+    <a href="https://leetcode.com/problems/nim-game/" target="_blank"> #292 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20292%20-%20Nim%20Game/NimGameSolution.java" target="_blank">Nim Game</a>
+  </li>
+</ul>
+
+<br>
+
 <!-- Data Stream -->
 <h2> Data Stream </h2>
 <ul>
