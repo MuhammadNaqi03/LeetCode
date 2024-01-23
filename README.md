@@ -169,6 +169,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20605%20-%20Can%20Place%20Flowers/CanPlaceFlowersSolution.java" target="_blank">Can Place Flowers</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/set-mismatch/" target="_blank"> #645 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20645%20-%20Set%20Mismatch/SetMismatchSolution.java" target="_blank">Set Mismatch</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/degree-of-an-array/" target="_blank"> #697 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20697%20-%20Degree%20of%20an%20Array/ArrayDegreeSolution.java" target="_blank">Degree of an Array</a>
   </li>
