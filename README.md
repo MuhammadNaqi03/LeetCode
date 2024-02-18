@@ -329,6 +329,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array/" target="_blank"> #2108 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202108%20-%20Find%20First%20Palindromic%20String%20in%20the%20Array/FirstPalindromeSolution.java" target="_blank">Find First Palindromic String in the Array</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/" target="_blank"> #2114 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences/MaxWordsSolution.java" target="_blank">Maximum Number of Words Found in Sentences</a>
   </li>
@@ -578,6 +582,10 @@
   <li>
     <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202038%20-%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/ColoredPiecesSolution.java" target="_blank">Remove Colored Pieces if Both Neighbors are the Same Color</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array/" target="_blank"> #2108 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202108%20-%20Find%20First%20Palindromic%20String%20in%20the%20Array/FirstPalindromeSolution.java" target="_blank">Find First Palindromic String in the Array</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/" target="_blank"> #2114 </a> -
@@ -1041,6 +1049,10 @@
   <li>
     <a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/" target="_blank"> #2095 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202095%20-%20%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/DeleteMidNodeSolution.java" target="_blank">Delete the Middle Node of a Linked List</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array/" target="_blank"> #2108 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202108%20-%20Find%20First%20Palindromic%20String%20in%20the%20Array/FirstPalindromeSolution.java" target="_blank">Find First Palindromic String in the Array</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/" target="_blank"> #2130 </a> -
