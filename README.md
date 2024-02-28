@@ -1810,6 +1810,10 @@
 <h2> Shell </h2>
 <ul>
   <li>
+    <a href="https://leetcode.com/problems/word-frequency/" target="_blank"> #192 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20192%20-%20Word%20Frequency/word_frequency.sh" target="_blank">Word Frequency</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/valid-phone-numbers/" target="_blank"> #193 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%20193%20-%20Valid%20Phone%20Numbers/valid_phone_numbers.sh" target="_blank">Valid Phone Numbers</a>
   </li>
