@@ -13,4 +13,5 @@
 * Now, we will sort again but now we need to sort in descending order, so that we will use `sort -r`.
 * Now, we need to print the word first then the frequency, so we will use `awk` for that.
 '
+
 cat words.txt | tr -s ' ' '\n' | sort | uniq -c | sort -r | awk '{print $2, $1}'
