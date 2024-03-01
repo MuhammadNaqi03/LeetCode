@@ -615,6 +615,10 @@
     <a href="https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/" target="_blank"> #2828 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202828%20-%20Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words/AcronymStringSolution.java" target="_blank">Check if a String Is an Acronym of Words</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/maximum-odd-binary-number/" target="_blank"> #2864 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202864%20-%20Maximum%20Odd%20Binary%20Number/MaxOddBinarySolution.java" target="_blank">Maximum Odd Binary Number</a>
+  </li>
 </ul>
 
 <br>
@@ -1219,6 +1223,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202038%20-%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/ColoredPiecesSolution.java" target="_blank">Remove Colored Pieces if Both Neighbors are the Same Color</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/maximum-odd-binary-number/" target="_blank"> #2864 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202864%20-%20Maximum%20Odd%20Binary%20Number/MaxOddBinarySolution.java" target="_blank">Maximum Odd Binary Number</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/" target="_blank"> #2870 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202870%20-%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty/MinOperationsToEmptySolution.java" target="_blank">Minimum Number of Operations to Make Array Empty</a>
   </li>
@@ -1522,6 +1530,10 @@
   <li>
     <a href="https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/" target="_blank"> #2807 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202807%20-%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List/GCDLinkedListSolution.java" target="_blank">Insert Greatest Common Divisors in Linked List</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/maximum-odd-binary-number/" target="_blank"> #2864 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202864%20-%20Maximum%20Odd%20Binary%20Number/MaxOddBinarySolution.java" target="_blank">Maximum Odd Binary Number</a>
   </li>
 </ul>
 
