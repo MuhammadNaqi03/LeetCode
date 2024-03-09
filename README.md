@@ -372,6 +372,10 @@
     <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/" target="_blank"> #2870 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202870%20-%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty/MinOperationsToEmptySolution.java" target="_blank">Minimum Number of Operations to Make Array Empty</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/" target="_blank"> #3005 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203005%20-%20Count%20Elements%20With%20Maximum%20Frequency/MaxFreqElemSolution.java" target="_blank">Count Elements With Maximum Frequency</a>
+  </li>
 </ul>
 
 <br>
@@ -1310,6 +1314,10 @@
   <li>
     <a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/" target="_blank"> #2870 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202870%20-%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty/MinOperationsToEmptySolution.java" target="_blank">Minimum Number of Operations to Make Array Empty</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/" target="_blank"> #3005 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203005%20-%20Count%20Elements%20With%20Maximum%20Frequency/MaxFreqElemSolution.java" target="_blank">Count Elements With Maximum Frequency</a>
   </li>
 </ul>
 
