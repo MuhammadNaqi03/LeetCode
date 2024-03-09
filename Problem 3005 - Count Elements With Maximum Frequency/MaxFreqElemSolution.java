@@ -1,4 +1,4 @@
-class Solution {
+class MaxFreqElemSolution {
   public int maxFrequencyElements(int[] nums) {
     /**
      * Approach 1: Using HashMap
