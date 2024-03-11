@@ -361,6 +361,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202433%20-%20Find%20The%20Original%20Array%20of%20Prefix%20Xor/PrefixXorSolution.java" target="_blank">Find The Original Array of Prefix Xor</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/minimum-common-value/" target="_blank"> #2540 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202540%20-%20Minimum%20Common%20Value/MinCommonValueSolution.java" target="_blank">Minimum Common Value</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/number-of-senior-citizens/" target="_blank"> #2678 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202678%20-%20Number%20of%20Senior%20Citizens/SeniorCountSolution.java" target="_blank">Number of Senior Citizens</a>
   </li>
@@ -1081,6 +1085,10 @@
   <li>
     <a href="https://leetcode.com/problems/partition-array-according-to-given-pivot/" target="_blank"> #2161 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202161%20-%20Partition%20Array%20According%20to%20Given%20Pivot/PivotPartitionSolution.java" target="_blank">Partition Array According to Given Pivot</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/minimum-common-value/" target="_blank"> #2540 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202540%20-%20Minimum%20Common%20Value/MinCommonValueSolution.java" target="_blank">Minimum Common Value</a>
   </li>
 </ul>
 
