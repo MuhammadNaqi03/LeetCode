@@ -1276,6 +1276,10 @@
     <a href="https://leetcode.com/problems/running-sum-of-1d-array/" target="_blank"> #1480 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201480%20-%20Running%20Sum%20of%201D%20Array/RunningSum1dSolution.java" target="_blank">Running Sum of 1d Array</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/find-the-pivot-integer/" target="_blank"> #2485 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202485%20-%20Find%20the%20Pivot%20Integer/PivotIntegerSolution.java" target="_blank">Find the Pivot Integer</a>
+  </li>
 </ul>
 
 <br>
@@ -1546,6 +1550,10 @@
   <li>
     <a href="https://leetcode.com/problems/convert-the-temperature/" target="_blank"> #2469 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202469%20-%20Convert%20the%20Temperature/ConvertTemperatureSolution.java" target="_blank">Convert the Temperature</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/find-the-pivot-integer/" target="_blank"> #2485 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202485%20-%20Find%20the%20Pivot%20Integer/PivotIntegerSolution.java" target="_blank">Find the Pivot Integer</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/find-the-maximum-achievable-number/" target="_blank"> #2769 </a> -
