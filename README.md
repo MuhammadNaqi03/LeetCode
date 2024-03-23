@@ -1567,6 +1567,10 @@
     <a href="https://leetcode.com/problems/maximum-odd-binary-number/" target="_blank"> #2864 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202864%20-%20Maximum%20Odd%20Binary%20Number/MaxOddBinarySolution.java" target="_blank">Maximum Odd Binary Number</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/" target="_blank"> #2894 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202894%20-%20Divisible%20and%20Non-divisible%20Sums%20Difference/DivisibleNonDivisibleDiffSolution.java" target="_blank">Divisible and Non-divisible Sums Difference</a>
+  </li>
 </ul>
 
 <br>
