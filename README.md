@@ -540,6 +540,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201544%20-%20Make%20The%20String%20Great/MakeStringGreatSolution.java" target="_blank">Make The String Great</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/" target="_blank"> #1614 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201614%20-%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses/MaxDepthSolution.java" target="_blank">Maximum Nesting Depth of the Parentheses</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters/" target="_blank"> #1624 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201624%20-%20Largest%20Substring%20Between%20Two%20Equal%20Characters/MaxLengthInSameCharsSoluton.java" target="_blank">Largest Substring Between Two Equal Characters</a>
   </li>
