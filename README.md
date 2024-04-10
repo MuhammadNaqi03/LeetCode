@@ -329,6 +329,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/time-needed-to-buy-tickets/" target="_blank"> #2073 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202073%20-%20Time%20Needed%20to%20Buy%20Tickets/BuyTicketSolution.java" target="_blank">Time Needed to Buy Tickets</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array/" target="_blank"> #2108 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202108%20-%20Find%20First%20Palindromic%20String%20in%20the%20Array/FirstPalindromeSolution.java" target="_blank">Find First Palindromic String in the Array</a>
   </li>
@@ -1395,6 +1399,10 @@
   <li>
     <a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/" target="_blank"> #2011 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/time-needed-to-buy-tickets/" target="_blank"> #2073 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202073%20-%20Time%20Needed%20to%20Buy%20Tickets/BuyTicketSolution.java" target="_blank">Time Needed to Buy Tickets</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/" target="_blank"> #2149 </a> -
