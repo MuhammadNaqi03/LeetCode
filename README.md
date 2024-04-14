@@ -1405,6 +1405,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202073%20-%20Time%20Needed%20to%20Buy%20Tickets/BuyTicketSolution.java" target="_blank">Time Needed to Buy Tickets</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/watering-plants/" target="_blank"> #2079 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202079%20-%20Watering%20Plants/WateringPlantsSolution.java" target="_blank">Watering Plants</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/rearrange-array-elements-by-sign/" target="_blank"> #2149 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202149%20-%20Rearrange%20Array%20Elements%20by%20Sign/SignElemSolution.java" target="_blank">Rearrange Array Elements by Sign</a>
   </li>
