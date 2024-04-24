@@ -628,6 +628,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202325%20-%20Decode%20the%20Message/DecodeMessageSolution.java" target="_blank">Decode the Message</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/optimal-partition-of-string/" target="_blank"> #2405 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202405%20-%20Optimal%20Partition%20of%20String/OptimalStringPartitionSolution.java" target="_blank">Optimal Partition of String</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/number-of-senior-citizens/" target="_blank"> #2678 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202678%20-%20Number%20of%20Senior%20Citizens/SeniorCountSolution.java" target="_blank">Number of Senior Citizens</a>
   </li>
@@ -1249,6 +1253,10 @@
   <li>
     <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202038%20-%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color/ColoredPiecesSolution.java" target="_blank">Remove Colored Pieces if Both Neighbors are the Same Color</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/optimal-partition-of-string/" target="_blank"> #2405 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202405%20-%20Optimal%20Partition%20of%20String/OptimalStringPartitionSolution.java" target="_blank">Optimal Partition of String</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/maximum-odd-binary-number/" target="_blank"> #2864 </a> -
