@@ -604,6 +604,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201903%20-%20Largest%20Odd%20Number%20in%20String/LargestOddNumberSolution.java" target="_blank">Largest Odd Number in String</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/reverse-prefix-of-word/" target="_blank"> #2000 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202000%20-%20Reverse%20Prefix%20of%20Word/ReversePrefixSolution.java" target="_blank">Reverse Prefix of Word</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/" target="_blank"> #2011 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
   </li>
