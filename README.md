@@ -369,6 +369,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202433%20-%20Find%20The%20Original%20Array%20of%20Prefix%20Xor/PrefixXorSolution.java" target="_blank">Find The Original Array of Prefix Xor</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/" target="_blank"> #2441 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202441%20-%20Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative/LargestPositiveSolution.java" target="_blank">Largest Positive Integer That Exists With Its Negative</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/minimum-common-value/" target="_blank"> #2540 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202540%20-%20Minimum%20Common%20Value/MinCommonValueSolution.java" target="_blank">Minimum Common Value</a>
   </li>
