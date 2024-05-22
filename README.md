@@ -1847,6 +1847,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201517%20-%20Find%20Users%20With%20Valid%20E-Mails/UsersWithValidEmails.sql" target="_blank">Find Users With Valid E-Mails</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/patients-with-a-condition/" target="_blank"> #1527 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201527%20-%20Patients%20With%20a%20Condition/PatientsWithCondition.sql" target="_blank">Patients With a Condition</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/" target="_blank"> #1581 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201581%20-%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions/NoTransactionCustomer.sql" target="_blank">Customer Who Visited but Did Not Make Any Transactions</a>
   </li>
