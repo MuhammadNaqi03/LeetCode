@@ -659,6 +659,10 @@
     <a href="https://leetcode.com/problems/maximum-odd-binary-number/" target="_blank"> #2864 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202864%20-%20Maximum%20Odd%20Binary%20Number/MaxOddBinarySolution.java" target="_blank">Maximum Odd Binary Number</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/score-of-a-string/" target="_blank"> #3110 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203110%20-%20Score%20of%20a%20String/ScoreOfStringSolution.java" target="_blank">Score of a String</a>
+  </li>
 </ul>
 
 <br>
