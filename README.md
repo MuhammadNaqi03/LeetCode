@@ -325,6 +325,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201913%20-%20Maximum%20Product%20Difference%20Between%20Two%20Pairs/MaxProductDiffSolution.java" target="_blank">Maximum Product Difference Between Two Pairs</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/build-array-from-permutation/" target="_blank"> #1920 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201920%20-%20Build%20Array%20from%20Permutation/BuildArraySolution.java" target="_blank">Build Array from Permutation</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/" target="_blank"> #2011 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
   </li>
