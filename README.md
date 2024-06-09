@@ -1429,6 +1429,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201860%20-%20Incremental%20Memory%20Leak/MemoryLeakSolution.java" target="_blank">Incremental Memory Leak</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/build-array-from-permutation/" target="_blank"> #1920 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201920%20-%20Build%20Array%20from%20Permutation/BuildArraySolution.java" target="_blank">Build Array from Permutation</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/" target="_blank"> #2011 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
   </li>
