@@ -333,6 +333,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202011%20-%20Final%20Value%20of%20Variable%20After%20Performing%20Operations/FinalValueSolution.java" target="_blank">Final Value of Variable After Performing Operations</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/" target="_blank"> #2037 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202037%20-%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/MinMovesToSeatSolution.java" target="_blank">Minimum Number of Moves to Seat Everyone</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/time-needed-to-buy-tickets/" target="_blank"> #2073 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202073%20-%20Time%20Needed%20to%20Buy%20Tickets/BuyTicketSolution.java" target="_blank">Time Needed to Buy Tickets</a>
   </li>
@@ -1273,6 +1277,10 @@
   <li>
     <a href="https://leetcode.com/problems/largest-odd-number-in-string/" target="_blank"> #1903 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201903%20-%20Largest%20Odd%20Number%20in%20String/LargestOddNumberSolution.java" target="_blank">Largest Odd Number in String</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/" target="_blank"> #2037 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202037%20-%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone/MinMovesToSeatSolution.java" target="_blank">Minimum Number of Moves to Seat Everyone</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/" target="_blank"> #2038 </a> -
