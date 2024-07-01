@@ -281,6 +281,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201539%20-%20Kth%20Missing%20Positive%20Number/KthMissingNumberSolution.java" target="_blank">Kth Missing Positive Number</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/three-consecutive-odds/" target="_blank"> #1550 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201550%20-%20Three%20Consecutive%20Odds/threeOddsSolution.java" target="_blank">Three Consecutive Odds</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/" target="_blank"> #1561 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201561%20-%20Maximum%20Number%20of%20Coins%20You%20Can%20Get/MaxCoinSolution.java" target="_blank">Maximum Number of Coins You Can Get</a>
   </li>
