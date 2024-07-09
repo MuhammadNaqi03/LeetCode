@@ -305,6 +305,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201684%20-%20Count%20the%20Number%20of%20Consistent%20Strings/ConsistentStringSolution.java" target="_blank">Count the Number of Consistent Strings</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/average-waiting-time/" target="_blank"> #1701 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201701%20-%20Average%20Waiting%20Time/AvgWaitingTimeSolution.java" target="_blank">Average Waiting Time</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/find-the-highest-altitude/" target="_blank"> #1732 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201732%20-%20Find%20the%20Highest%20Altitude/HighestAltSolution.java" target="_blank">Find the Highest Altitude</a>
   </li>
@@ -1435,6 +1439,10 @@
   <li>
     <a href="https://leetcode.com/problems/design-parking-system/" target="_blank"> #1603 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201603%20-%20Design%20Parking%20System/ParkingSystemSolution.java" target="_blank">Design Parking System</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/average-waiting-time/" target="_blank"> #1701 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201701%20-%20Average%20Waiting%20Time/AvgWaitingTimeSolution.java" target="_blank">Average Waiting Time</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/incremental-memory-leak/" target="_blank"> #1860 </a> -
