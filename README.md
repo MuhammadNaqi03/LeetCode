@@ -664,6 +664,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202405%20-%20Optimal%20Partition%20of%20String/OptimalStringPartitionSolution.java" target="_blank">Optimal Partition of String</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/circular-sentence/" target="_blank"> #2490 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202490%20-%20Circular%20Sentence/CircularSentenceSolution.java" target="_blank">Circular Sentence</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/number-of-senior-citizens/" target="_blank"> #2678 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202678%20-%20Number%20of%20Senior%20Citizens/SeniorCountSolution.java" target="_blank">Number of Senior Citizens</a>
   </li>
