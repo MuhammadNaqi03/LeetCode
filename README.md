@@ -313,6 +313,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201732%20-%20Find%20the%20Highest%20Altitude/HighestAltSolution.java" target="_blank">Find the Highest Altitude</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/maximum-ascending-subarray-sum/" target="_blank"> #1800 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201800%20-%20Maximum%20Ascending%20Subarray%20Sum/MaxAscendingSumSolution.java" target="_blank">Maximum Ascending Subarray Sum</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/" target="_blank"> #1822 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%201822%20-%20Sign%20of%20the%20Product%20of%20an%20Array/SignOfProductSolution.java" target="_blank">Sign of the Product of an Array</a>
   </li>
