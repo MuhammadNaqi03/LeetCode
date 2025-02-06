@@ -1938,6 +1938,10 @@
     <a href="https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/" target="_blank"> #2356 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202356%20-%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/UniqueSubjects.sql" target="_blank">Number of Unique Subjects Taught by Each Teacher</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/find-valid-emails/" target="_blank"> #3436 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203436%20-%20Find%20Valid%20Emails/ValidEmails.sql" target="_blank">Find Valid Emails</a>
+  </li>
 </ul>
 
 <br>
