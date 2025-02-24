@@ -420,6 +420,10 @@
     <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/" target="_blank"> #3005 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203005%20-%20Count%20Elements%20With%20Maximum%20Frequency/MaxFreqElemSolution.java" target="_blank">Count Elements With Maximum Frequency</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/permutation-difference-between-two-strings/" target="_blank"> #3146 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203146%20-%20Permutation%20Difference%20between%20Two%20Strings/TwoStringsDiffSolution.java" target="_blank">Permutation Difference between Two Strings</a>
+  </li>
 </ul>
 
 <br>
@@ -690,6 +694,10 @@
   <li>
     <a href="https://leetcode.com/problems/score-of-a-string/" target="_blank"> #3110 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203110%20-%20Score%20of%20a%20String/ScoreOfStringSolution.java" target="_blank">Score of a String</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/permutation-difference-between-two-strings/" target="_blank"> #3146 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203146%20-%20Permutation%20Difference%20between%20Two%20Strings/TwoStringsDiffSolution.java" target="_blank">Permutation Difference between Two Strings</a>
   </li>
 </ul>
 
