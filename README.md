@@ -421,6 +421,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202870%20-%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty/MinOperationsToEmptySolution.java" target="_blank">Minimum Number of Operations to Make Array Empty</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-missing-and-repeated-values/" target="_blank"> #2965 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202965%20-%20Find%20Missing%20and%20Repeated%20Values/MissingRepeatedValSolution.java" target="_blank">Find Missing and Repeated Values</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/" target="_blank"> #3005 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203005%20-%20Count%20Elements%20With%20Maximum%20Frequency/MaxFreqElemSolution.java" target="_blank">Count Elements With Maximum Frequency</a>
   </li>
@@ -1002,6 +1006,10 @@
   <li>
     <a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/" target="_blank"> #2125 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202125%20-%20Number%20of%20Laser%20Beams%20in%20a%20Bank/NumberOfBeamsSolution.java" target="_blank">Number of Laser Beams in a Bank</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/find-missing-and-repeated-values/" target="_blank"> #2965 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202965%20-%20Find%20Missing%20and%20Repeated%20Values/MissingRepeatedValSolution.java" target="_blank">Find Missing and Repeated Values</a>
   </li>
 </ul>
 
@@ -1670,6 +1678,10 @@
   <li>
     <a href="https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/" target="_blank"> #2894 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202894%20-%20Divisible%20and%20Non-divisible%20Sums%20Difference/DivisibleNonDivisibleDiffSolution.java" target="_blank">Divisible and Non-divisible Sums Difference</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/find-missing-and-repeated-values/" target="_blank"> #2965 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202965%20-%20Find%20Missing%20and%20Repeated%20Values/MissingRepeatedValSolution.java" target="_blank">Find Missing and Repeated Values</a>
   </li>
 </ul>
 
