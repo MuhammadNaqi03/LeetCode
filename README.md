@@ -429,6 +429,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203005%20-%20Count%20Elements%20With%20Maximum%20Frequency/MaxFreqElemSolution.java" target="_blank">Count Elements With Maximum Frequency</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/" target="_blank"> #3065 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203065%20-%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20I/MinOperations1Solution.java" target="_blank">Minimum Operations to Exceed Threshold Value I</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/permutation-difference-between-two-strings/" target="_blank"> #3146 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203146%20-%20Permutation%20Difference%20between%20Two%20Strings/TwoStringsDiffSolution.java" target="_blank">Permutation Difference between Two Strings</a>
   </li>
