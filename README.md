@@ -421,6 +421,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202870%20-%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty/MinOperationsToEmptySolution.java" target="_blank">Minimum Number of Operations to Make Array Empty</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/find-words-containing-character/" target="_blank"> #2942 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202942%20-%20Find%20Words%20Containing%20Character/WordsWithCharSolution.java" target="_blank">Find Words Containing Character</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/find-missing-and-repeated-values/" target="_blank"> #2965 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202965%20-%20Find%20Missing%20and%20Repeated%20Values/MissingRepeatedValSolution.java" target="_blank">Find Missing and Repeated Values</a>
   </li>
@@ -702,6 +706,10 @@
   <li>
     <a href="https://leetcode.com/problems/maximum-odd-binary-number/" target="_blank"> #2864 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202864%20-%20Maximum%20Odd%20Binary%20Number/MaxOddBinarySolution.java" target="_blank">Maximum Odd Binary Number</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/find-words-containing-character/" target="_blank"> #2942 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202942%20-%20Find%20Words%20Containing%20Character/WordsWithCharSolution.java" target="_blank">Find Words Containing Character</a>
   </li>
   <li>
     <a href="https://leetcode.com/problems/score-of-a-string/" target="_blank"> #3110 </a> -
