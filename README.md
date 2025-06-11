@@ -440,6 +440,10 @@
     <a href="https://leetcode.com/problems/permutation-difference-between-two-strings/" target="_blank"> #3146 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203146%20-%20Permutation%20Difference%20between%20Two%20Strings/TwoStringsDiffSolution.java" target="_blank">Permutation Difference between Two Strings</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/problems/special-array-i/" target="_blank"> #3151 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203151%20-%20Special%20Array%201/SpecialArray1Solution.java" target="_blank">Special Array I</a>
+  </li>
 </ul>
 
 <br>
