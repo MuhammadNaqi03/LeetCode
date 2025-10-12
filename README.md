@@ -728,6 +728,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203146%20-%20Permutation%20Difference%20between%20Two%20Strings/TwoStringsDiffSolution.java" target="_blank">Permutation Difference between Two Strings</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/reverse-degree-of-a-string/" target="_blank"> #3498 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203498%20-%20Reverse%20Degree%20of%20a%20String/ReverseDegreeSolution.java" target="_blank">Reverse Degree of a String</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/" target="_blank"> #3541 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203541%20-%20Find%20Most%20Frequent%20Vowel%20and%20Consonant/MostFreqSolution.java" target="_blank">Find Most Frequent Vowel and Consonant</a>
   </li>
@@ -1535,6 +1539,10 @@
   <li>
     <a href="https://leetcode.com/problems/merge-nodes-in-between-zeros/" target="_blank"> #2181 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202181%20-%20Merge%20Nodes%20in%20Between%20Zeros/MergeNonZeroNodesSolution.java" target="_blank">Merge Nodes in Between Zeros</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/reverse-degree-of-a-string/" target="_blank"> #3498 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203498%20-%20Reverse%20Degree%20of%20a%20String/ReverseDegreeSolution.java" target="_blank">Reverse Degree of a String</a>
   </li>
 </ul>
 
