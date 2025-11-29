@@ -445,6 +445,10 @@
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203151%20-%20Special%20Array%201/SpecialArray1Solution.java" target="_blank">Special Array I</a>
   </li>
   <li>
+    <a href="https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/" target="_blank"> #3512 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203512%20-%20Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K/MinOperationsToMakeDivisibleSolution.java" target="_blank">Minimum Operations to Make Array Sum Divisible by K</a>
+  </li>
+  <li>
     <a href="https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/" target="_blank"> #3541 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203541%20-%20Find%20Most%20Frequent%20Vowel%20and%20Consonant/MostFreqSolution.java" target="_blank">Find Most Frequent Vowel and Consonant</a>
   </li>
@@ -1714,6 +1718,10 @@
   <li>
     <a href="https://leetcode.com/problems/find-missing-and-repeated-values/" target="_blank"> #2965 </a> -
     <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%202965%20-%20Find%20Missing%20and%20Repeated%20Values/MissingRepeatedValSolution.java" target="_blank">Find Missing and Repeated Values</a>
+  </li>
+  <li>
+    <a href="https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/" target="_blank"> #3512 </a> -
+    <a href="https://github.com/MuhammadNaqi03/LeetCode/blob/master/Problem%203512%20-%20Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K/MinOperationsToMakeDivisibleSolution.java" target="_blank">Minimum Operations to Make Array Sum Divisible by K</a>
   </li>
 </ul>
 
